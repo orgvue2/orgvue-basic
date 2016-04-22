@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * Create a chart
 * [1. Getting started](chapter01/1-0.readme.md)
    * [Log in to OrgVue](chapter01/1-1.login.md)
    * [Navigate OrgVue](chapter01/1-2.navigate.md)
