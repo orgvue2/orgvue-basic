@@ -17,4 +17,6 @@ The type of account you have. This is either ‘admin’ or ‘user’, though m
 ##### Admin
 The highest level of user access in OrgVue – admins can see and edit all data. Usually admins have gone on our advanced training course and act as super-users to help field questions
 
+##### Node
+
 
