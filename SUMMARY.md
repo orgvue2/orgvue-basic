@@ -9,4 +9,5 @@
    * [Understand your data](chapter01/1-5.understand_data.md)
    * [View your data as a tree](chapter01/1-6.tree.md)
    * Add colours to your Org Chart
+   * Work with nodes
 
