@@ -13,4 +13,5 @@
    * [Work with nodes](chapter01/work_with_nodes.md)
    * [Cleanse data using Pivot](chapter01/cleanse_data_using_pivot.md)
    * [Create a chart](chapter01/chartbasic.md)
+   * Save and export a report
 
