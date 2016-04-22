@@ -5,5 +5,5 @@
    * [Log in to OrgVue](chapter01/1-1.login.md)
    * [Navigate OrgVue](chapter01/1-2.navigate.md)
    * [Get data into OrgVue](chapter01/1-3.getdatain.md)
-   * Work with Worksheet View
+   * [Work with Worksheet View](chapter01/1-4.worksheetview.md)
 
