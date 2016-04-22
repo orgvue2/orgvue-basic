@@ -17,4 +17,5 @@
    * [Help](chapter01/help.md)
    * [Terminologies](chapter01/terms.md)
    * [Exercises](chapter01/1.exercises.md)
+   * Further resources
 
