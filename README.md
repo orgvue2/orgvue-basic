@@ -26,3 +26,5 @@ Other resources:
 * [OrgVue Website](https://orgvue.com)
 * [OrgVue Blog](https://blog.orgvue.com)
 
+Old introductory video (testing video embed)
+{% youtube %}https://www.youtube.com/watch?v=fzDbGY2DcCs{% endyoutube %}
