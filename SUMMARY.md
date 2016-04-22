@@ -7,4 +7,5 @@
    * [Get data into OrgVue](chapter01/1-3.getdatain.md)
    * [Work with Worksheet View](chapter01/1-4.worksheetview.md)
    * [Understand your data](chapter01/1-5.understand_data.md)
+   * View your data as a tree
 
