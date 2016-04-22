@@ -10,5 +10,5 @@
    * [View your data as a tree](chapter01/1-6.tree.md)
    * [Add colours to your Org Chart](chapter01/colours_basic.md)
    * [Work with nodes](chapter01/work_with_nodes.md)
-   * [Cleanse data using Pivot](chapter01/cleanse_pivot.md)
+   * [Cleanse data using Pivot](chapter01/cleanse_data_using_pivot.md)
 
