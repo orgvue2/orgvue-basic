@@ -12,3 +12,6 @@ Step 3. Make corrections using ‘Drag-and-Drop’, e.g. move Prince George and 
 ![](../chapter01pics/1-079.datacleansingpivot.png)
 
 Pivot View will be covered in more detail in [Chapter 5].
+
+
+**Exercise:**
