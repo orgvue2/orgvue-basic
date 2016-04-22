@@ -15,4 +15,5 @@
    * [Create a chart](chapter01/chartbasic.md)
    * [Save and export a report](chapter01/save_export.md)
    * [Help](chapter01/help.md)
+   * Terminologies
 
