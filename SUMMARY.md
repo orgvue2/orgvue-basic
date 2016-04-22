@@ -6,4 +6,5 @@
    * [Navigate OrgVue](chapter01/1-2.navigate.md)
    * [Get data into OrgVue](chapter01/1-3.getdatain.md)
    * [Work with Worksheet View](chapter01/1-4.worksheetview.md)
+   * Understand your data
 
