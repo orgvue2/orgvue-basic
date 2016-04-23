@@ -3,5 +3,7 @@
         "youtube",
         "expandable-chapters"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "expandable-chapters":{}
+    }
 }
