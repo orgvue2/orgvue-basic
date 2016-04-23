@@ -18,5 +18,5 @@
    * [Exercises](chapter01/1.exercises.md)
    * [Further resources](chapter01/1. resources.md)
 * [Integrating data](chapter02/readme.md)
-* Working with hierarchical data
+* [Working with hierarchical data](chapter03/readme.md)
 
