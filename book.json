@@ -4,5 +4,9 @@
         "expandable-chapters",
         "ga"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "ga": {
+              "token": "UA-76817233-1"
+        }
+    }
 }
