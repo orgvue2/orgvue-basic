@@ -21,4 +21,5 @@
 * [Working with hierarchical data](chapter03/readme.md)
 * [Cleansing data](chapter04/readme.md)
 * [Visualising data](chapter05/readme.md)
+* Exploring data
 
