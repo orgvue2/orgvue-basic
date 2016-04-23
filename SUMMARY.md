@@ -17,5 +17,4 @@
    * [Terminologies](chapter01/terms.md)
    * [Exercises](chapter01/1.exercises.md)
    * [Further resources](chapter01/1. resources.md)
-       * [Cleansing data](chapter04/readme.md)
 
