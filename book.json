@@ -1,7 +1,6 @@
 {
     "plugins": [
         "youtube",
-        "-collapsible-menu",
         "expandable-chapters"
     ],
     "pluginsConfig": {}
