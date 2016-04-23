@@ -20,5 +20,5 @@
 * [Integrating data](chapter02/readme.md)
 * [Working with hierarchical data](chapter03/readme.md)
 * [Cleansing data](chapter04/readme.md)
-* Visualising data
+* [Visualising data](chapter05/readme.md)
 
