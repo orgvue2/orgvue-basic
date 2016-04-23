@@ -19,4 +19,5 @@
    * [Further resources](chapter01/1. resources.md)
 * [Integrating data](chapter02/readme.md)
 * [Working with hierarchical data](chapter03/readme.md)
+* Cleansing data
 
