@@ -1,2 +1,2 @@
-# Integrating data
+# Chapter 2. Integrating data
 
