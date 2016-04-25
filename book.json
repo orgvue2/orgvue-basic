@@ -11,6 +11,6 @@
     },
     "pdf": {
         "headerTemplate": "OrgVue Basic",
-        "footerTemplate": "_PAGENUM_ | Copyright_AUTHOR_"
+        "footerTemplate": "_PAGENUM_ | © 2016 _AUTHOR_"
     }
 }
