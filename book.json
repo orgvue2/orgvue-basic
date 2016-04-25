@@ -11,6 +11,6 @@
     },
     "pdf": {
         "headerTemplate": "OrgVue Basic",
-        "footerTemplate": "_PAGENUM_, _TITLE_, _AUTHOR_
+        "footerTemplate": "_PAGENUM_, _TITLE_, _AUTHOR_"
     }
 }
