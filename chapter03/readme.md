@@ -1,2 +1,2 @@
-# Working with hierarchical data
+# Chapter 3. Working with hierarchical data
 
