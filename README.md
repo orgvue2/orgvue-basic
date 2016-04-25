@@ -4,6 +4,8 @@
 
 Use this book as a main reference material for your training session with OrgVue trainer. This book can be useful when you want to look through OrgVue functionalities in a structured way.
 
+[Download OrgVue training catalogue](https://www.orgvue.com/training-certification)
+
 #### OrgVue Basic overview
 
 [Download syllabus](https://www.orgvue.com/sites/default/files/uploads/orgvue_basic_training_syllabus.pdf)
