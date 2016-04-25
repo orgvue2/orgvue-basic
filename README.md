@@ -4,7 +4,9 @@
 
 Use this book as a main reference material for your training session with OrgVue trainer. This book can be useful when you want to look through OrgVue functionalities in a structured way.
 
-##### OrgVue Basic Training covers
+#### OrgVue Basic overview
+
+##### Topics covered
 1. Getting started with OrgVue
 2. Integrating data 
 3. Working with hierarchical data - Tree view
@@ -13,6 +15,7 @@ Use this book as a main reference material for your training session with OrgVue
 6. Exploring data - Search 
 
 ##### Each chapter consist of 
+* Objectives
 * Theories and principles - presented as slide show
 * How-tos - examples and exercises
 * End of chapter exercises
