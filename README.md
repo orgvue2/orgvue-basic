@@ -2,7 +2,7 @@
 
 #### About this book
 
-Use this book as a main reference material for your training session with OrgVue trainer. This book can be useful when you want to look through OrgVue functionalities in a structured and guided way.
+Use this book as a main reference material for your training session with OrgVue trainer. This book can be useful when you want to look through OrgVue functionalities in a structured way.
 
 ##### OrgVue Basic Training covers
 1. Getting started with OrgVue
@@ -23,8 +23,8 @@ Download practice datasets: (link to Box)
 
 Other resources:
 * [OrgVue Portal](https://support.orgvue.com)
-* [OrgVue Website](https://orgvue.com)
-* [OrgVue Blog](https://blog.orgvue.com)
+* [OrgVue Website](https://www.orgvue.com/training-certification)
+* [OrgVue Blog](http://blog.orgvue.com/)
 
 Old introductory video (testing video embed)
 {% youtube %}https://www.youtube.com/watch?v=fzDbGY2DcCs{% endyoutube %}
