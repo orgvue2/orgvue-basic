@@ -4,16 +4,13 @@
         "expandable-chapters",
         "ga"
     ],
-    
     "pluginsConfig": {
         "ga": {
             "token": "UA-76817233-1"
         }
     },
-  
     "pdf": {
         "headerTemplate": "OrgVue Basic",
         "footerTemplate": "_PAGENUM_, _TITLE_, _AUTHOR_
     }
-
 }
