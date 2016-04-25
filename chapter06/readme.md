@@ -1,2 +1,2 @@
-# Exploring data
+# Chapter 6. Exploring data
 
