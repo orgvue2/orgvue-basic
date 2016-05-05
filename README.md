@@ -45,7 +45,7 @@ Use this book as a main reference material for your training session with OrgVue
 * Royal family
 * 1505 
 
-Download here (link to Box)
+[Download here](https://concentra.box.com/s/6dxqyb385rxtph7tvddlo5gr47327gq9)
 
 #### Other resources:
 * [OrgVue Portal](https://support.orgvue.com)
