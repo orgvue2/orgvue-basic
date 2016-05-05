@@ -13,7 +13,7 @@ Use this book as a main reference material for your training session with OrgVue
 ##### Topics covered
 1. Getting started with OrgVue
 2. Integrating data 
-3. Working with hierarchical data - Ort charts
+3. Working with hierarchical data - Org charts
 4. Cleansing data - Paint with data
 5. Visualising data - Chart, Pivot, Dashboard
 6. Exploring data - Search 
