@@ -12,5 +12,6 @@
     "pdf": {
         "headerTemplate": "OrgVue Basic",
         "footerTemplate": "_PAGENUM_ | © 2016 _AUTHOR_"
-    }
+    },
+    "gitbook": ">=3.0.0-pre.13"
 }
