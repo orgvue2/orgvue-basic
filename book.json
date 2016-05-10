@@ -8,7 +8,11 @@
     "pluginsConfig": {
         "ga": {
             "token": "UA-76817233-1"
-        }
+        },
+        "algolia": {
+            "index":         "orgvuebasic",
+            "applicationID": "5IPX7KBPOW",
+            "publicKey":     "df406ed45e78989cc3790d90edc3213f"
     },
     "pdf": {
         "headerTemplate": "OrgVue Basic",
