@@ -1,22 +1,6 @@
 {
     "plugins": [
-        "youtube",
-        "expandable-chapters",
-        "ga",
         "algolia"
     ],
-    "pluginsConfig": {
-        "ga": {
-            "token": "UA-76817233-1"
-        },
-        "algolia": {
-            "index":         "orgvue_basic",
-            "applicationID": "5IPX7KBPOW",
-            "publicKey":     "df406ed45e78989cc3790d90edc3213f"
-    },
-    "pdf": {
-        "headerTemplate": "OrgVue Basic",
-        "footerTemplate": "_PAGENUM_ | © 2016 _AUTHOR_"
-    },
-    "gitbook": ">=3.0.0-pre.13"
+    "pluginsConfig": {}
 }
