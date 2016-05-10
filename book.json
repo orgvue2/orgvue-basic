@@ -3,7 +3,7 @@
         "youtube",
         "expandable-chapters",
         "ga",
-        "algolia"
+        "-algolia"
     ],
     "pluginsConfig": {
         "ga": {
