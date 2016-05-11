@@ -1,4 +1,4 @@
-# OrgVue Basic (Test ver.)
+# OrgVue Basic (Prototype)
 
 #### About this book
 
