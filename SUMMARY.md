@@ -23,4 +23,5 @@
 * [Cleansing data](chapter04/readme.md)
 * [Visualising data](chapter05/readme.md)
 * [Exploring data](chapter06/readme.md)
+* Final assessment
 
