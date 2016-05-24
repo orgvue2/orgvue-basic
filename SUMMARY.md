@@ -19,7 +19,7 @@
    * [Further resources](chapter01/1. resources.md)
        * [Subsubchapter](chapter01/subfolder/subchapter.md)
 * [Integrating data](chapter02/readme.md)
-   * Paste and merge data
+   * [Paste and merge data](chapter02/paste_and_merge_data.md)
 * [Working with hierarchical data](chapter03/readme.md)
 * [Cleansing data](chapter04/readme.md)
 * [Visualising data](chapter05/readme.md)
