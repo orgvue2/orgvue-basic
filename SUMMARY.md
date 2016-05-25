@@ -36,6 +36,7 @@
    * [Related blog posts](chapter04/related_blog_posts.md)
 * [Visualising data](chapter05/readme.md)
    * [Dashboards](chapter05/dashboards.md)
+   * Charts
 * [Exploring data](chapter06/readme.md)
 * [Final assessment](final_assessment.md)
 
