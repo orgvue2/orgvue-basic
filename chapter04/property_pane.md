@@ -14,5 +14,54 @@
 
   * ‘Orphan children’:  All direct reports will become top-level nodes with no parents or children
 
-Adding and deleting nodes through the Property Pane is possible in any View
-If you delete a person (node), all data relating to that person will be deleted as well
+* **Adding and deleting nodes through the Property Pane is possible in any View**
+
+* **If you delete a person (node), all data relating to that person will be deleted as well**
+
+##Edit data
+
+The Property Pane provides a way of editing data node by node.
+
+1) To open Property Pane, click the arrows on the right-hand corner or the area marked
+
+2) Property Pane shows the list of properties and values for the selected node (employee) 
+
+##Edit Property
+
+You can manage settings for each property using the Property Pane.
+
+1) Hover your cursor over a Property and a ‘cog’ icon appears – click on this to bring up the ‘Edit Property’ Dialogue
+
+2) In the ‘Edit Property’ Dialogue, you can change property settings or delete the property
+
+**Property settings will be covered in detail in Advanced Training.**
+
+###Edit number of bins
+
+1) Open the ‘Edit Property’ Dialogue through the Property Pane
+
+2) Under ‘Type’ select ‘Number’ to view the current Bin logic for the Property
+
+3) Alter the number of intervals using the ‘+’ and ‘-’ icons. Additionally, you can set quantiles or define completely customised Bin intervals for the Property
+
+4) OrgVue automatically cascades your Bin logic changes to all visualisations referencing the particular Property
+
+
+##Add new property
+
+1) Click ‘Add property’
+
+2) Set parameters for new property in the ‘Add Property’ Dialogue, then click ‘Add’
+
+
+
+
+
+
+
+
+
+
+
+
+
