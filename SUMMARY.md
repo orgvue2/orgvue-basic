@@ -32,7 +32,7 @@
    * [Paint with data](chapter04/paint_with_data.md)
    * [Property pane](chapter04/property_pane.md)
    * [Exercises](chapter04/exercises.md)
-   * Learn more: Undo changes
+   * [Learn more: Undo changes](chapter04/learn_more_undo_changes.md)
 * [Visualising data](chapter05/readme.md)
 * [Exploring data](chapter06/readme.md)
 * [Final assessment](final_assessment.md)
