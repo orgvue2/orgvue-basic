@@ -22,3 +22,47 @@ The Filter Control helps you to answer complex questions, because the data withi
 
 2) The remaining values under the “Area” property Filter disappeared - this quickly tells us the entire Projects Department works only in Manchester 
 
+##Apply or disregard filtering choices
+
+Once you are happy with your filtering choices you can choose from one of the following options through the icons located at the top of the Filter Control.
+
+##Before and after applying filters in Tree View 
+
+1) In Tree View, open up the Filter Control window
+
+2) Bring “Area” and “Department” properties into the window
+
+3) Click Manchester from the “Area” column and click Projects from the “Department” column
+
+4) Click the ‘Apply filter’ icon and see how the Tree changes
+
+##Metadata filters
+
+It is always possible to filter by a Metadata property in the Filter Control as they are not Dataset-dependant. 
+
+###List of metadata properties:
+
+* *Change* – Lets you filter to data that has been changed since last save
+* *Change Count*– Filter by the number of times the data has been changed since the last save
+* *Depth* – Lets you filter by the number of levels down from the top node in the hierarchy
+* *Descendants* – Lets you filter to all the nodes beneath a given node in the hierarchy
+* *Is Duplicate* – filters duplicate nodes
+* *Is Leaf* – filters nodes that are leaves (i.e. have no children)
+* *Is Orphan* – filters nodes that have no connections to other nodes
+* *Level ‘n’* – filter by Level ‘n’ in the hierarchy
+* *Outgoing Count* – synonymous with “Span of Control”
+* *Parking Lot* -  filters nodes that have been dragged into a Parking Lot
+* *Records* – allows you to filter by the number of records each node represents
+
+
+
+
+
+
+
+
+
+
+
+
+
