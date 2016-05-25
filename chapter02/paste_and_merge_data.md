@@ -71,9 +71,7 @@ Navigate to Pivot View and see whether all values have been merged.
 2) Choose “Hours Worked Per Week” as ‘Columns’ and “Full Time/Part Time/Contract” as ‘Rows’ 
 
 ![](2-008.mergeddatapivot.png)
-#Related blog posts
 
-[Org charts are boring – but brilliant](http://blog.orgvue.com/org-charts-are-boring-but-brilliant-3/)
 
 
 
