@@ -25,6 +25,7 @@
    * [Tree view](chapter03/tree_view.md)
    * [Multiple Hierarchies](chapter03/multiple_hierarchies.md)
    * [How-to guide for pictures](chapter03/how-to_guide_for_pictures.md)
+   * Chapter 3 related blog posts
 * [Cleansing data](chapter04/readme.md)
 * [Visualising data](chapter05/readme.md)
 * [Exploring data](chapter06/readme.md)
