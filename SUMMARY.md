@@ -22,6 +22,7 @@
 * [Working with hierarchical data](chapter03/readme.md)
    * [Tree view](chapter03/tree_view.md)
    * [Change reporting structures](chapter03/change_reporting_structures.md)
+   * Tree view
 * [Cleansing data](chapter04/readme.md)
 * [Visualising data](chapter05/readme.md)
 * [Exploring data](chapter06/readme.md)
