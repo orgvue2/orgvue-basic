@@ -18,7 +18,7 @@ Note: We will use this Dataset from chapter 2 to chapter 6.
 
 3) Go to the Home screen and click the ‘+’ icon at the top right
 
-![](2-001.createdataset.png)
+![](2-001.createdatasets.png)
 
 4) In the new worksheet, click 'Paste'
 
