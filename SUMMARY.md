@@ -21,7 +21,7 @@
    * [Paste and merge data](chapter02/paste_and_merge_data.md)
 * [Working with hierarchical data](chapter03/readme.md)
    * [Change reporting structures](chapter03/change_reporting_structures.md)
-   * Tree view
+   * [Tree view](chapter03/tree_view.md)
 * [Cleansing data](chapter04/readme.md)
 * [Visualising data](chapter05/readme.md)
 * [Exploring data](chapter06/readme.md)
