@@ -1,6 +1,6 @@
-#How-to guide: Add pictures to your org chart
+##How-to guide: Add pictures to your org chart
 
-##Uploading pictures
+###Uploading pictures
 
 1) Prepare the pictures of employees in a single zip file (no subfolders)
 
@@ -12,11 +12,17 @@
 
 2) Create a property of type ‘Image’ then click on the ‘Upload zip’ button
 
+
+
 3) Choose the property to match (merge) on, then when the ‘Upload images’ Dialogue appears click ‘Apply’ 
+
+
 
 4) Uploaded images will be scaled automatically based on the Size setting
 
-##Displaying pictures
+![](3-030.propertypane.png)
+
+###Displaying pictures
 
 1) Choose either ‘Icon’ or ‘Summary’ card
 
@@ -24,3 +30,4 @@
 
 3) You can enlarge and reduce the size of images displayed using the ‘Icon size’ slider
 
+![](3-031.orgchartpics2.png)
