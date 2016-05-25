@@ -4,9 +4,15 @@
 
 1) To delete a node, select a node in any view and click on the ‘- Delete’ icon at the bottom of the screen or drag a node onto it
 
-2-1) If you’re deleting a node with no children, just click ‘OK’ 
+![](4-013Aproppanedelete1.png)
+
+2-1) If you’re deleting a node with no children, just click ‘OK’ #
+
+![](4-014propanedelete2.png)
 
 2-2) If you’re deleting a node with children, select one of the three options, then click ‘OK’
+
+![](4-015.proppanedelete3.png)
 
   * ‘Cascade delete to all descendants’:  All descendants will be deleted along with the person**
 
@@ -14,17 +20,21 @@
 
   * ‘Orphan children’:  All direct reports will become top-level nodes with no parents or children
 
-* **Adding and deleting nodes through the Property Pane is possible in any View**
+**Adding and deleting nodes through the Property Pane is possible in any View**
 
-* **If you delete a person (node), all data relating to that person will be deleted as well**
+**If you delete a person (node), all data relating to that person will be deleted as well**
 
 ##Edit data
 
 The Property Pane provides a way of editing data node by node.
 
-1) To open Property Pane, click the arrows on the right-hand corner or the area marked
+1) To open Property Pane, click the arrows on the right-hand corner or the area marked ![](4-016propeditmarker.png)
+
+![](4-017.propedit1.png)
 
 2) Property Pane shows the list of properties and values for the selected node (employee) 
+
+![](4-018.propedit2.png)
 
 ##Edit Property
 
