@@ -113,17 +113,23 @@ Other Properties: “Full name”, “Gender”, “Grade”, “Current Salary�
 
 Hint: Level 3, Tree layout, Scaled card, Size by “Total Payroll cost” and then after by “Outgoing count”
 
+![](3-015.answer1.11.png)
 
+![](3-016answer1.12.png)
 
 ##Answer 1.2:
 
 
 Hint: Level 9, Sunburst layout, Colour by ‘Measure’ and “Performance ranking”, select a palette showing RAG status
 
+![](3-017.answer1.2.png)
+
 ##Answer 1.3
 
 
 Hint: Level 2, Tree layout, Summary card, display “Role” as title, “Department” as subtitle, tick “Full name”, “Gender”, “Grade”, “Current Salary”, “Performance ranking” from the list. Colour by “Absence days”
+
+![](3-018.answer1.3.png)
 
 
 ##Exercise 2: Make corrections to the reporting structure
@@ -140,9 +146,17 @@ Hint: Level 2, Tree layout, Summary card, display “Role” as title, “Depart
 
 Notice that COO incorrectly reports to the Executive Assistant – Make COO report to CEO by Drag-and-Drop.
 
+![](3-019.answer21.png)
+
 Now COO reports to CEO.
 
+![](3-020answer22.png)
 
+##Learn more:
+
+1) **Multiple hierarchies**
+
+2) **How-to guide: add pictures of your chart**
 
 
 
