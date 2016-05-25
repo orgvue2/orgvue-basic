@@ -26,9 +26,9 @@
    * [Multiple Hierarchies](chapter03/multiple_hierarchies.md)
    * [How-to guide for pictures](chapter03/how-to_guide_for_pictures.md)
 * [Chapter 3 related blog posts](chapter03/chapter_3_related_blog_posts.md)
-* [Visualising data](chapter05/readme.md)
 * [Cleansing data](chapter04/readme.md)
    * Data Types and Patterns
+* [Visualising data](chapter05/readme.md)
 * [Exploring data](chapter06/readme.md)
 * [Final assessment](final_assessment.md)
 
