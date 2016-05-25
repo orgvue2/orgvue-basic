@@ -28,7 +28,7 @@
    * [How-to guide for pictures](chapter03/how-to_guide_for_pictures.md)
 * [Cleansing data](chapter04/readme.md)
    * [Data Types and Patterns](chapter04/data_types_and_patterns.md)
-   * Filter Control
+   * [Filter Control](chapter04/filter_control.md)
 * [Visualising data](chapter05/readme.md)
 * [Exploring data](chapter06/readme.md)
 * [Final assessment](final_assessment.md)
