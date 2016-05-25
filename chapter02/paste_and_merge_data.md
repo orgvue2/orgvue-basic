@@ -51,7 +51,7 @@ The ‘Paste data from clipboard’ Dialogue will appear. Press Ctrl+V to paste 
 
 4) Select ‘Merge on field’ when the ‘Paste options’ Dialogue appears, then click ‘Apply’
 
-![](2-006.pasteoptions.png)
+
 
 **If there are multiple properties upon which you can merge your new data into the existing Dataset, you can specify which property through the drop down list**
 
