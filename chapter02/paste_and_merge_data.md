@@ -38,7 +38,7 @@ Note: We will use this Dataset from chapter 2 to chapter 6.
 
 1) Go to the ‘Hours Worked by Type’ tab in the ‘Ch2-6. 1505 Dataset.xlsx’ file. Copy all data.
 
-
+![](2-004.copyhoursexcel.png)
 
 2) Go to your 1505 Dataset in OrgVue. Click ‘Paste’ in the top right-hand corner
 The ‘Paste data from clipboard’ Dialogue will appear. Press Ctrl+V to paste data
@@ -51,12 +51,16 @@ The ‘Paste data from clipboard’ Dialogue will appear. Press Ctrl+V to paste 
 
 4) Select ‘Merge on field’ when the ‘Paste options’ Dialogue appears, then click ‘Apply’
 
+![](2-006.pasteoptions.png)
+
 **If there are multiple properties upon which you can merge your new data into the existing Dataset, you can specify which property through the drop down list**
 
 5) Check new data is merged into the existing Dataset in OrgVue
 
 **Can’t see the new data in the Worksheet?
 Open up the Properties Panel in the Side Panel and see that the ‘Hours Worked Per Week’ property has been added to the list. Tick it to add it to the current Worksheet View.**
+
+![](2-007.checkdatamerged.png)
 
 ##Validate merging in Pivot View
 
@@ -66,6 +70,7 @@ Navigate to Pivot View and see whether all values have been merged.
 
 2) Choose “Hours Worked Per Week” as ‘Columns’ and “Full Time/Part Time/Contract” as ‘Rows’ 
 
+![](2-008.mergeddatapivot.png)
 #Related blog posts
 
 [Org charts are boring – but brilliant](http://blog.orgvue.com/org-charts-are-boring-but-brilliant-3/)
