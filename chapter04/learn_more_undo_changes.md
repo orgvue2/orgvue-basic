@@ -10,6 +10,8 @@
 
 3) Clicking the ‘roll-back’ arrow will un-do the edit on that cell and revert it to its original value
 
+![](4-033.rollbackarrow.png)
+
 **‘Un-Do’ functionality references a cell’s original value relative to the last time you saved your Dataset.  Therefore, when you save your Dataset you can no longer ‘Un-Do’ changes within Workspace. OrgVue shall retain the history of all saved changes, which can be accessed from the audit log**
 
 ##Selected changes
@@ -21,5 +23,7 @@
 3) Select one category and drag it to ‘Revert’ in the Property Pane
 
 4) The ‘Revert’ Dialogue will appear and allow you to select the properties for which you want to un-do changes. The changes will be un-done once you click ‘Revert’
+
+![](4-034.undoselected.png)
 
 
