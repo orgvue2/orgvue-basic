@@ -4,6 +4,8 @@
 
 The Filter Control lets you apply sophisticated filters to your data throughout all active Views in OrgVue.
 
+![](4-002filtercontrolintro.png)
+
 
 
 ##Apply a filter
@@ -14,6 +16,8 @@ The Filter Control lets you apply sophisticated filters to your data throughout 
 
 3) Notice that the number of employees under the remaining filter columns of “Gender”, “Age” and “Department” have also updated
 
+![](4-003applyfilter.png)
+
 ##Apply multiple filters
 
 The Filter Control helps you to answer complex questions, because the data within the filter is dynamically responsive.
@@ -22,9 +26,13 @@ The Filter Control helps you to answer complex questions, because the data withi
 
 2) The remaining values under the “Area” property Filter disappeared - this quickly tells us the entire Projects Department works only in Manchester 
 
+![](4-004applymultiple filters.png)
+
 ##Apply or disregard filtering choices
 
 Once you are happy with your filtering choices you can choose from one of the following options through the icons located at the top of the Filter Control.
+
+![](4-005applychoices.png)
 
 ##Before and after applying filters in Tree View 
 
@@ -36,9 +44,13 @@ Once you are happy with your filtering choices you can choose from one of the fo
 
 4) Click the ‘Apply filter’ icon and see how the Tree changes
 
+![](4-006beforeafterfilter.png)
+
 ##Metadata filters
 
 It is always possible to filter by a Metadata property in the Filter Control as they are not Dataset-dependant. 
+
+![](4-007metadatafilters.png)
 
 ###List of metadata properties:
 
