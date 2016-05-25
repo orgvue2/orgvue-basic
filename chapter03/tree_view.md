@@ -53,3 +53,71 @@ Executive Assistant currently reports to CEO. Now you want to make Executive Ass
 
 3) Now Executive Assistant (and their reports) reports up through the CFO
 
+##Drill through hierarchies in Tree View
+1) Expand to just Level 1
+
+2) When you hover the mouse over a node 5 icons will appear underneath it
+
+3) Drill down the hierarchy 1 level by clicking 
+
+
+##Exercise 1: Create the visuals described below in Tree View
+
+1) In Tree View, set your data to ‘Level 3’. Then, create a view that shows the organisation Scaled by: 
+  
+  a) “Total Payroll Cost”
+
+then
+
+  b) “Span of control” (select “Outgoing Count”)
+
+Show the whole of your organisation as a Sunburst coloured by “Performance Ranking”
+
+Show the top 2 Levels of the organisation with a Summary card with the following properties (in the same order), and coloured by “Absence Days”
+
+* Title: “Role”
+
+* 
+Subtitle: “Department” 
+
+* 
+Other Properties: “Full name”, “Gender”, “Grade”, “Current Salary”, “Performance ranking”
+
+##Answer 1.1:
+
+Hint: Level 3, Tree layout, Scaled card, Size by “Total Payroll cost” and then after by “Outgoing count”
+
+##Answer 1.2:
+
+
+Hint: Level 9, Sunburst layout, Colour by ‘Measure’ and “Performance ranking”, select a palette showing RAG status
+
+##Answer 1.3
+
+
+Hint: Level 2, Tree layout, Summary card, display “Role” as title, “Department” as subtitle, tick “Full name”, “Gender”, “Grade”, “Current Salary”, “Performance ranking” from the list. Colour by “Absence days”
+
+
+##Exercise 2: Make corrections to the reporting structure
+
+1) Set Tree View to only look at the first 3 Levels and view as a ‘Compact’ tree (don’t forget to Refresh the data if necessary)
+
+2) Set the Card to ‘Icon’ and the subtitle to “Role”
+
+3) Colour the nodes by the Dimension “Department”
+
+4) Do you notice anything not quite right in the reporting structure? Re-order or re-parent any irregularities observed
+
+##Answer 2:
+
+Notice that COO incorrectly reports to the Executive Assistant – Make COO report to CEO by Drag-and-Drop.
+
+Now COO reports to CEO.
+
+
+
+
+
+
+
+
