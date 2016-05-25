@@ -18,11 +18,20 @@ Note: We will use this Dataset from chapter 2 to chapter 6.
 
 3) Go to the Home screen and click the ‘+’ icon at the top right
 
+![](2-001.createdataset.png)
+
 4) In the new worksheet, click 'Paste'
 
 5) The ‘Paste options’ Dialogue will appear. Select ‘Tree by IDs’ and set the ‘Label’ as “Full name”)
 
+![](2-002.pasteoptions.png)
+
 6) Check your Dataset is pasted into the Worksheet as a hierarchy. Name your Dataset <1505 – your name> and save it
+
+![](2-003.namedataset.png)
+
+**Click and see details of warning – duplicated nodes. It provides information about errors in the Dataset.**
+
 
 
 ##Paste and merge the ‘Hours Worked per Week’ data into your employee Dataset
@@ -38,6 +47,7 @@ The ‘Paste data from clipboard’ Dialogue will appear. Press Ctrl+V to paste 
 
 3) Select ‘Merge on field’ when the ‘Paste options’ Dialogue appears, then click ‘Apply’
 
+![](2-005.pastehoursdata.png)
 
 4) Select ‘Merge on field’ when the ‘Paste options’ Dialogue appears, then click ‘Apply’
 
