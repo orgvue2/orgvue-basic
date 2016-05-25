@@ -33,3 +33,23 @@ OrgVue helps you represent hierarchical structures in your data in efficient and
 ##Zoom in & out
 
 OrgVue makes it easy to see as much detail as you need.
+
+* 
+
+**You can also move the Tree vertically and horizontally by left-clicking the screen and dragging anywhere in the canvas**
+
+
+* **You can also zoom in or out using the mouse wheel**
+
+##Change reporting structure using Drag-and-Drop
+
+Simply Drag and Drop a node or group of nodes to make changes to your tree. 
+
+Executive Assistant currently reports to CEO. Now you want to make Executive Assistant and all their descendants report to CFO.
+
+1) Drag the Executive Assistant and drop onto CFO (waiting until the red ‘x’ by the cursor is gone)
+
+2) When the ‘Confirm’ Dialogue appears, click ‘OK’ to make Executive Assistant (and their descendants) a child of CFO
+
+3) Now Executive Assistant (and their reports) reports up through the CFO
+
