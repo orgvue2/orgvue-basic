@@ -60,12 +60,20 @@ You can switch back to the original region-based hierarchy by choosing “Line M
 **Functional hierarchy view:**
 
 
+![](3-027b.funchierarchyview.png)
+
+![](3-027.funchierarchyview.png)
+
 **Geographical hierarchy view:**
+
+
 
 ![](3-028.geohierarchyview.png)
 
 
+
 Coloured by Department (Executive, Engineering, Distribution and Sales)
+
 
 For more information about handling multiple hierarchies, go to [support.orgvue.com](support.orgvue.com)
 
@@ -87,7 +95,11 @@ For more information about handling multiple hierarchies, go to [support.orgvue.
 
 3) Choose the property to match (merge) on, then when the ‘Upload images’ Dialogue appears click ‘Apply’ 
 
+
+
 4) Uploaded images will be scaled automatically based on the Size setting
+
+![](3-030.propertypane.png)
 
 ###Displaying pictures
 
@@ -97,3 +109,4 @@ For more information about handling multiple hierarchies, go to [support.orgvue.
 
 3) You can enlarge and reduce the size of images displayed using the ‘Icon size’ slider
 
+![](3-031.orgchartpics2.png)
