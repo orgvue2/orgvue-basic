@@ -21,3 +21,5 @@
 3) Select one category and drag it to ‘Revert’ in the Property Pane
 
 4) The ‘Revert’ Dialogue will appear and allow you to select the properties for which you want to un-do changes. The changes will be un-done once you click ‘Revert’
+
+
