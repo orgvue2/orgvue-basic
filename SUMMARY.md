@@ -29,7 +29,7 @@
 * [Cleansing data](chapter04/readme.md)
    * [Data Types and Patterns](chapter04/data_types_and_patterns.md)
    * [Filter Control](chapter04/filter_control.md)
-   * Paint with data
+   * [Paint with data](chapter04/paint_with_data.md)
 * [Visualising data](chapter05/readme.md)
 * [Exploring data](chapter06/readme.md)
 * [Final assessment](final_assessment.md)
