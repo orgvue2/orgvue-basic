@@ -8,3 +8,4 @@
 
 3) From the Dashboard Panel in the Side Panel, tick the properties you want to display on the Dashboard
 
+![](4-001datatypesdashboard.png)
