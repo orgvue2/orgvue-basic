@@ -41,8 +41,11 @@ The Property Pane provides a way of editing data node by node.
 You can manage settings for each property using the Property Pane.
 
 1) Hover your cursor over a Property and a ‘cog’ icon appears – click on this to bring up the ‘Edit Property’ Dialogue
+![](4-019.editproperty1.png)
 
 2) In the ‘Edit Property’ Dialogue, you can change property settings or delete the property
+
+![](4-020.propertyedit2.png)
 
 **Property settings will be covered in detail in Advanced Training.**
 
@@ -50,20 +53,30 @@ You can manage settings for each property using the Property Pane.
 
 1) Open the ‘Edit Property’ Dialogue through the Property Pane
 
+
+
 2) Under ‘Type’ select ‘Number’ to view the current Bin logic for the Property
+
+
 
 3) Alter the number of intervals using the ‘+’ and ‘-’ icons. Additionally, you can set quantiles or define completely customised Bin intervals for the Property
 
+![](4-021.bininterval.png)
+
 4) OrgVue automatically cascades your Bin logic changes to all visualisations referencing the particular Property
 
+![](4-022.7bins.png)
+![](4-023.12bins.png)
 
 ##Add new property
 
 1) Click ‘Add property’
 
+![](4-024.addproperty.png)
+
 2) Set parameters for new property in the ‘Add Property’ Dialogue, then click ‘Add’
 
-
+![](4-025.addproperty2.png)
 
 
 
