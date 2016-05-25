@@ -10,12 +10,18 @@
 
 Filter on “Gender” and click the ‘%’ button to show 57.9% male and 42.1% female.
 
+![](4-026.answer1.1.png)
+
 
 ##Answer 1.2:
 
 1) Filter using the ‘Is Duplicate’ metadata property to highlight the duplicates
 
+![](4-027.answer1.2a.png)
+
 2) Drag the duplicate node onto ‘Delete’ on the Property Pane
+
+![](4-028.answer1.2b.png)
 
 ##Exercise 2: Use Filter Control and Splash Command to complete the task below:
 
@@ -33,9 +39,16 @@ Filter on “Gender” and click the ‘%’ button to show 57.9% male and 42.1%
 
 2) The data has gone in as a text value because of the different formats in the source Excel file. Fixing the Revenue values to have the same format (numbers) before merging will fix the problem
 
+![](4-030.answer2.1a.png)
+
+![](4-029.answer2.1b.png)
+
 ##Answer 2.2
 
 1) Filtering on “Area” and “Revenue” and selecting “Glasgow” will highlight five nodes with no Revenue assigned to them
 
+![](4-031.answer2.2a.png)
+
 2) Apply the filter and use a splash command (50000!*) in Worksheet View to set the Revenue as 50,000
 
+![](4-032.answer2.2b.png)
