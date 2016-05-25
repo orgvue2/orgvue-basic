@@ -13,3 +13,23 @@ Now it is much manageable. The ‘Expand to level’ dropdown lets you expand an
 **The colour scheme you apply in the Side Panel applies to all views.**
 
 2) Hovering over a department in the Side Panel will highlight that department in the Tree
+
+##Summary card
+
+1) Open up the Card Panel in the Side Panel and choose the card type depending on the type of data you want to highlight. In this example, ‘Summary’ card has been selected. Summary card is useful when you want to display multiple properties for each node. (NB ‘Icon’ is the default card type)
+
+2) Choose ‘Title’, ‘Subtitle’ and other properties you want to show on cards
+
+##Scaled card
+
+1) Now choose ‘Scaled’ card from the dropdown list
+
+2) Choose a ‘Title’, ‘Subtitle’ and ‘Size by’ to configure the Scaled card as you want. Scaled card helps to give a sense of proportion within the familiar org chart picture
+
+##Tree layout
+
+OrgVue helps you represent hierarchical structures in your data in efficient and beautiful ways. Try different layouts using ‘Tree layout’ dropdown.
+
+##Zoom in & out
+
+OrgVue makes it easy to see as much detail as you need.
