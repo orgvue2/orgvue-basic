@@ -4,7 +4,7 @@
 
 The Filter Control lets you apply sophisticated filters to your data throughout all active Views in OrgVue.
 
-**From any View, you can open a Filter Control window by clicking the ‘Filter’ icon in the Toolbar**
+
 
 ##Apply a filter
 
