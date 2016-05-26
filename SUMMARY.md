@@ -40,7 +40,7 @@
    * [Snapshot](chapter05/snapshot.md)
    * [Pinning](chapter05/pinning.md)
    * [Exercises](chapter05/exercises.md)
-   * Learn more: 'Pause' and 'Go' buttons
+   * [Learn more: 'Pause' and 'Go' buttons](chapter05/learn_more_pause_and_go_buttons.md)
 * [Exploring data](chapter06/readme.md)
 * [Final assessment](final_assessment.md)
 
