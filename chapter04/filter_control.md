@@ -57,13 +57,13 @@ Once you are happy with your filtering choices you can choose from one of the fo
 
 4. Click the ‘Apply filter’ icon and see how the Tree changes
 
-![](4-006beforeafterfilter.png)
+![](4-006.beforeafterfilter.png)
 
 ##Metadata filters
 
 It is always possible to filter by a Metadata property in the Filter Control as they are not Dataset-dependant. 
 
-![](4-007metadatafilters.png)
+![](4-007.metadatafilters.png)
 
 ###List of metadata properties:
 
