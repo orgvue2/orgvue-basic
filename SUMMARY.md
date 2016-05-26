@@ -46,5 +46,6 @@
    * [Further information](chapter05/further_information.md)
 * [Exploring data](chapter06/readme.md)
    * [Search Box (Querying)](chapter06/search_box_querying.md)
+   * Data Summary Statistics using Filter Control
 * [Final assessment](final_assessment.md)
 
