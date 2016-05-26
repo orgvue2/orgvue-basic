@@ -48,6 +48,8 @@
 
 **Choose the correct observations (in Tree vocab) about the org in the picture**
 
+![](7-001.treevocab.png)
+
 (A): Reece Harris is the root of this org
 
 (B): Ava Wilkins is a parent of one child
@@ -102,11 +104,36 @@
 
 **Which areas of business (department) need further investigation on low performance?**
 
+![](7-002.answer1.1.png)
+
+![](7-003.answer1.2.png)
+![](7-004.answer1.3.png)
 ##Answer 2.
 **Are there any correlations between large spans of control and performance? **
+![](7-005.answer2.1.png)
 
+![](7-006.answer2.2.png)
+##Answer 3.
+**Can we say more engaged employees are better in their performance?**
+
+![](7-007.answer3.1.png)
+
+![](7-007.answer3.2.png)
+##Answer 4.
+**How many high performers in Manchester have less than 2 tenure years?**
+
+![](7-008.answer4.1.png)
+
+![](7-009.answer4.2.png)
+![](7-010.answer4.3.png)
+
+##Answer 5.
 1.
 Create a new property ‘Team Performance’ using default value box node.d.performanceranking.avg
 
+![](7-011.answer5.1.png)
+
 2.
 Scatter chart of AVG Team Performance vs. AVG Team Engagement, coloured by Department dimension
+
+![](7-012.answer5.2.png)
