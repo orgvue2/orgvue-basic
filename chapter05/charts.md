@@ -2,16 +2,16 @@
 
 ##Bar chart
 
-1) In Chart View, define your chart visualisations using the Charting Panel in the Side Panel.
+1. In Chart View, define your chart visualisations using the Charting Panel in the Side Panel.
 Navigate to Chart View via the Toolbar
 
-2) Select a chart type, e.g. bar chart
+2. Select a chart type, e.g. bar chart
 
-3) Choose how you want to aggregate your data (SUM, CNT, or AVG) and which Measure you would like to use
+3. Choose how you want to aggregate your data (SUM, CNT, or AVG) and which Measure you would like to use
 
-4) Break out your data along a particular text or date Dimension
+4. Break out your data along a particular text or date Dimension
 
-5) Colour your charts by some property
+5. Colour your charts by some property
 
 ##Split Bar chart (100%) 
 
@@ -27,9 +27,9 @@ Choose Scatter plot and specify X, Y axis and unit and size of bubbles.
 
 Line graph is useful to show the trends in your Dataset.
 
-1) Define the Aggregation, Measure and Dimension from the Side Panel. 
+1. Define the Aggregation, Measure and Dimension from the Side Panel. 
 
-2) To display multiple items (i.e. multiple lines) on a graph, colour by a Dimension.
+2. To display multiple items (i.e. multiple lines) on a graph, colour by a Dimension.
 
 ##Colouring options
 
