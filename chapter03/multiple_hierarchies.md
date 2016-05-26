@@ -8,14 +8,18 @@ In the example organisation ‘Ch3. Multiple hierarchies.xlsx’, the current re
 
 ##Create a new Dataset using copy/ paste
 
-1. Open the ‘Ch3. Multiple hierarchies.xlsx.’ file and copy all data
+1.
+Open the ‘Ch3. Multiple hierarchies.xlsx.’ file and copy all data
 
 
-2. In OrgVue, create a new Dataset and paste the copied data
+2.
+In OrgVue, create a new Dataset and paste the copied data
 
-3. When the ‘Paste options’ Dialogue appears, select ‘Tree (by IDs)’, Label by “Role”, choose “Employee ID” as ID and “Line Manager ID” as Parent ID
+3.
+When the ‘Paste options’ Dialogue appears, select ‘Tree (by IDs)’, Label by “Role”, choose “Employee ID” as ID and “Line Manager ID” as Parent ID
 
-![](3-021multiplehierarchiesdataset.png)
+![](3-021.multiplehierarchiesdataset.png)
+
 
 ##View the current reporting structure
 
