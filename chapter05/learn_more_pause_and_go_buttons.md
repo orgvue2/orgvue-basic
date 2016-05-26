@@ -4,4 +4,6 @@ Make use of ‘Pause’ and ‘Go’ buttons when you redraw visualisations with
 
 Single click the ‘pause’ icon to suspend re-caluclation. Similarly, single click on the ‘play’ icon to trigger a re-calculation. Double click when on pause to go back to the default setting of ‘Auto-Play’
 
+![](5-023.pauseandgo.png)
+
 **‘Pause’ button will prevent re-rendering the data with every user interaction, leading to performance gain**
