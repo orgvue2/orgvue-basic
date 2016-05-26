@@ -10,5 +10,6 @@ You can save a particular Dashboard or Chart for later use by Pinning reports �
 
 3) Access saved reports from this drop down
 
-For advanced ways of sharing reports go to [support.orgvue.com](support.orgvue.com
+**For advanced ways of sharing reports go to [support.orgvue.com](support.orgvue.com)**
 
+All Pinned reports are stored in a ‘Reports’ section on the OrgVue Home screen. You can directly open the Pinned report from there.
