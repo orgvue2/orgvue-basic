@@ -6,7 +6,11 @@ You can export any of your charts in the current View from OrgVue.
 
 1. Click on the ‘camera’ icon on the top right-hand corner of the Toolbar
 
+![](5-014.snapshotcamera.png)
+
 2. In the ‘Snapshot’ Dialogue simply enter a name for your output file and select whether it will be a PDF, PPT or Image. Then click ‘Take Snapshot’
+
+![](5-015.takesnapshot.png)
 
 ###Output Options
 
