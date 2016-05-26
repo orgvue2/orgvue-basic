@@ -29,7 +29,7 @@
    * [Data Types and Patterns](chapter04/data_types_and_patterns.md)
    * [Filter Control](chapter04/filter_control.md)
    * [Paint with data](chapter04/paint_with_data.md)
-   * [Property pane](chapter04/property_pane.md)
+   * [Property Pane](chapter04/property_pane.md)
    * [Exercises](chapter04/exercises.md)
    * [Learn more: Undo changes](chapter04/learn_more_undo_changes.md)
    * [Further resources](chapter04/related_blog_posts.md)
