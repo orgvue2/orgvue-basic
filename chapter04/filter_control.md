@@ -10,11 +10,11 @@ The Filter Control lets you apply sophisticated filters to your data throughout 
 
 ##Apply a filter
 
-1) You can filter your data by left-clicking once on any category in any filter column in the main window
+1. You can filter your data by left-clicking once on any category in any filter column in the main window
 
-2) Note that this filters down the number of records from 1,505 (the number of total employees) to 1,138 (the number of employees located in Manchester)
+2. Note that this filters down the number of records from 1,505 (the number of total employees) to 1,138 (the number of employees located in Manchester)
 
-3) Notice that the number of employees under the remaining filter columns of “Gender”, “Age” and “Department” have also updated
+3. Notice that the number of employees under the remaining filter columns of “Gender”, “Age” and “Department” have also updated
 
 ![](4-003applyfilter.png)
 
@@ -22,9 +22,9 @@ The Filter Control lets you apply sophisticated filters to your data throughout 
 
 The Filter Control helps you to answer complex questions, because the data within the filter is dynamically responsive.
 
-1) We have now applied two filters simultaneously to our data – filtering by employees located in Manchester and in the Projects Department
+1. We have now applied two filters simultaneously to our data – filtering by employees located in Manchester and in the Projects Department
 
-2) The remaining values under the “Area” property Filter disappeared - this quickly tells us the entire Projects Department works only in Manchester 
+2. The remaining values under the “Area” property Filter disappeared - this quickly tells us the entire Projects Department works only in Manchester 
 
 ![](4-004applymultiple filters.png)
 
@@ -36,13 +36,13 @@ Once you are happy with your filtering choices you can choose from one of the fo
 
 ##Before and after applying filters in Tree View 
 
-1) In Tree View, open up the Filter Control window
+1. In Tree View, open up the Filter Control window
 
-2) Bring “Area” and “Department” properties into the window
+2. Bring “Area” and “Department” properties into the window
 
-3) Click Manchester from the “Area” column and click Projects from the “Department” column
+3. Click Manchester from the “Area” column and click Projects from the “Department” column
 
-4) Click the ‘Apply filter’ icon and see how the Tree changes
+4. Click the ‘Apply filter’ icon and see how the Tree changes
 
 ![](4-006beforeafterfilter.png)
 
