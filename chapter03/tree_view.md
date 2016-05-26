@@ -10,31 +10,31 @@ Now it is much manageable. The ‘Expand to level’ dropdown lets you expand an
 
 ![](3-002.TVexpandlevel.png)
 
-##Colour by
+#Colour by
 
-1) Apply colouring using the Color Control (colour by “Department”)
+1. Apply colouring using the Color Control (colour by “Department”)
 
 ![](3-003.colourcontrol.png)
 
 **The colour scheme you apply in the Side Panel applies to all views.**
 
-2) Hovering over a department in the Side Panel will highlight that department in the Tree
+2. Hovering over a department in the Side Panel will highlight that department in the Tree
 
 ![](3-004.TVdepartment.png)
 
 ##Summary card
 
-1) Open up the Card Panel in the Side Panel and choose the card type depending on the type of data you want to highlight. In this example, ‘Summary’ card has been selected. Summary card is useful when you want to display multiple properties for each node. (NB ‘Icon’ is the default card type)
+1. Open up the Card Panel in the Side Panel and choose the card type depending on the type of data you want to highlight. In this example, ‘Summary’ card has been selected. Summary card is useful when you want to display multiple properties for each node. (NB ‘Icon’ is the default card type)
 
-2) Choose ‘Title’, ‘Subtitle’ and other properties you want to show on cards
+2. Choose ‘Title’, ‘Subtitle’ and other properties you want to show on cards
 
 ![](3-005.summarycard.png)
 
 ##Scaled card
 
-1) Now choose ‘Scaled’ card from the dropdown list
+1. Now choose ‘Scaled’ card from the dropdown list
 
-2) Choose a ‘Title’, ‘Subtitle’ and ‘Size by’ to configure the Scaled card as you want. Scaled card helps to give a sense of proportion within the familiar org chart picture
+2. Choose a ‘Title’, ‘Subtitle’ and ‘Size by’ to configure the Scaled card as you want. Scaled card helps to give a sense of proportion within the familiar org chart picture
 
 ![](3-006scaledcard.png)
 
@@ -63,24 +63,24 @@ Simply Drag and Drop a node or group of nodes to make changes to your tree.
 
 Executive Assistant currently reports to CEO. Now you want to make Executive Assistant and all their descendants report to CFO.
 
-1) Drag the Executive Assistant and drop onto CFO (waiting until the red ‘x’ by the cursor is gone)
+1. Drag the Executive Assistant and drop onto CFO (waiting until the red ‘x’ by the cursor is gone)
 
 ![](3-009dragdrop1.png)
 
-2) When the ‘Confirm’ Dialogue appears, click ‘OK’ to make Executive Assistant (and their descendants) a child of CFO
+2. When the ‘Confirm’ Dialogue appears, click ‘OK’ to make Executive Assistant (and their descendants) a child of CFO
 
 ![](3-010.dragdrop2.png)
 
-3) Now Executive Assistant (and their reports) reports up through the CFO
+3. Now Executive Assistant (and their reports) reports up through the CFO
 
 ![](3-011.dragdrop3.png)
 
 ##Drill through hierarchies in Tree View
-1) Expand to just Level 1
+1. Expand to just Level 1
 
-2) When you hover the mouse over a node 5 icons will appear underneath it
+2. When you hover the mouse over a node 5 icons will appear underneath it
 
-3) Drill down the hierarchy 1 level by clicking ![](3-012.droparrow.png)
+3. Drill down the hierarchy 1 level by clicking ![](3-012.droparrow.png)
 
 ![](3-013.hierarchy.png)
 
@@ -89,7 +89,7 @@ Executive Assistant currently reports to CEO. Now you want to make Executive Ass
 
 ##Exercise 1: Create the visuals described below in Tree View
 
-1) In Tree View, set your data to ‘Level 3’. Then, create a view that shows the organisation Scaled by: 
+1. In Tree View, set your data to ‘Level 3’. Then, create a view that shows the organisation Scaled by: 
   
   a) “Total Payroll Cost”
 
@@ -134,13 +134,13 @@ Hint: Level 2, Tree layout, Summary card, display “Role” as title, “Depart
 
 ##Exercise 2: Make corrections to the reporting structure
 
-1) Set Tree View to only look at the first 3 Levels and view as a ‘Compact’ tree (don’t forget to Refresh the data if necessary)
+1. Set Tree View to only look at the first 3 Levels and view as a ‘Compact’ tree (don’t forget to Refresh the data if necessary)
 
-2) Set the Card to ‘Icon’ and the subtitle to “Role”
+2. Set the Card to ‘Icon’ and the subtitle to “Role”
 
-3) Colour the nodes by the Dimension “Department”
+3. Colour the nodes by the Dimension “Department”
 
-4) Do you notice anything not quite right in the reporting structure? Re-order or re-parent any irregularities observed
+4. Do you notice anything not quite right in the reporting structure? Re-order or re-parent any irregularities observed
 
 ##Answer 2:
 
@@ -154,9 +154,9 @@ Now COO reports to CEO.
 
 ##Learn more:
 
-1) **Multiple hierarchies**
+1. **Multiple hierarchies**
 
-2) **How-to guide: add pictures of your chart**
+2. **How-to guide: add pictures of your chart**
 
 
 
