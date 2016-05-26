@@ -26,8 +26,9 @@ OrgVue can save multiple Snapshots by using Auto-Pagination.
 2. Choose single or multiple criteria (properties) from the dropdown list and click ‘OK’
 3. Click ‘snapshot’ icon to export your data from OrgVue, and leverage Pagination by ticking ‘Auto paginate’ in the Dialogue
 
+##Auto-Pagination results
 
-
+Applying autopagination will output a PDF or PPT with each paged OrgVue chart being added to a new sheet.
 
 
 
