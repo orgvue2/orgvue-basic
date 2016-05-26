@@ -4,7 +4,7 @@
 
 The Filter Control lets you apply sophisticated filters to your data throughout all active Views in OrgVue.
 
-![](4-002filtercontrolintro.png)
+![](4-002.filtercontrolintro.png)
 
 
 
@@ -16,7 +16,7 @@ The Filter Control lets you apply sophisticated filters to your data throughout 
 
 3. Notice that the number of employees under the remaining filter columns of “Gender”, “Age” and “Department” have also updated
 
-![](4-003applyfilter.png)
+![](4-003.applyfilter.png)
 
 ##Apply multiple filters
 
@@ -26,11 +26,24 @@ The Filter Control helps you to answer complex questions, because the data withi
 
 2. The remaining values under the “Area” property Filter disappeared - this quickly tells us the entire Projects Department works only in Manchester 
 
-![](4-004applymultiple filters.png)
+![](4-004.applymultiple filters.png)
 
 ##Apply or disregard filtering choices
 
 Once you are happy with your filtering choices you can choose from one of the following options through the icons located at the top of the Filter Control.
+
+| Icon | Function |
+| -- | -- |
+| ![](4-005A.applychoicesicon1.png) | Applies your current filters to your Dataset, which will be pushed through to all of your Views
+ |
+| ![](4-005B.applychoicesicon2.png) | Clears all your current filters but keeps you in the Filter Control window
+ |
+| ![](4-005C.applychoicesicon3.png) | Click on the padlock icon to switch modes: when unlocked, filters are automatically applied to your Dataset
+ |
+| ![](4-005D.applychoicesicon4.png)| Copy the data filter(s) applied
+ |
+| ![](4-005E.applychoicesicon5.png)| Use this icon to drag all nodes in the current filter(s) for further actions, e.g. cleansing, assigning new values and etc.
+ |
 
 ![](4-005applychoices.png)
 
