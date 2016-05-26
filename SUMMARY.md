@@ -36,7 +36,7 @@
 * [Visualising data](chapter05/readme.md)
    * [Dashboards](chapter05/dashboards.md)
    * [Charts](chapter05/charts.md)
-   * [Pivot view](chapter05/pivot_view.md)
+   * [Pivot View](chapter05/pivot_view.md)
    * [Snapshot](chapter05/snapshot.md)
    * [Pinning](chapter05/pinning.md)
    * [Exercises](chapter05/exercises.md)
