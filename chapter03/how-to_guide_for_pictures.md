@@ -11,11 +11,7 @@
 
 2. Create a property of type ‘Image’ then click on the ‘Upload zip’ button
 
-
-
 3. Choose the property to match (merge) on, then when the ‘Upload images’ Dialogue appears click ‘Apply’ 
-
-
 
 4. Uploaded images will be scaled automatically based on the Size setting
 
