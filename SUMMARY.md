@@ -38,6 +38,7 @@
    * [Charts](chapter05/charts.md)
    * [Pivot view](chapter05/pivot_view.md)
    * [Snapshot](chapter05/snapshot.md)
+   * Pinning
 * [Exploring data](chapter06/readme.md)
 * [Final assessment](final_assessment.md)
 
