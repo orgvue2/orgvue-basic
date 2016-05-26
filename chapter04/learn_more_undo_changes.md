@@ -2,7 +2,7 @@
 
 ##Roll-back arrow
 
-1) Data points which have been recently changed will be coloured Green
+1. Data points which have been recently changed will be coloured Green
 
 **Changes are only tracked since the last save operation and each time you save all data points are re-coloured black.**
 
