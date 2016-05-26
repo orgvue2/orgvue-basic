@@ -43,6 +43,7 @@
    * [Learn more: 'Pause' and 'Go' buttons](chapter05/learn_more_pause_and_go_buttons.md)
    * [Learn more: Pagination](chapter05/learn_more_pagination.md)
    * [Learn more: Custom colour option (‘Passthrough’)](chapter05/learn_more_custom_colour_option_passthrough.md)
+   * Further information
 * [Exploring data](chapter06/readme.md)
 * [Final assessment](final_assessment.md)
 
