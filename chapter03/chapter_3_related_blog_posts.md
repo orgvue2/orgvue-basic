@@ -1,4 +1,6 @@
-# Related blog posts
+#Further resources
+
+## Related blog posts
 
 [Websites are trees too](http://blog.orgvue.com/web-sites-are-trees-too/
 )
