@@ -4,7 +4,10 @@
 
 You can save a particular Dashboard or Chart for later use by Pinning reports – handy for sharing with other users.
 
-1. After drawing a chart, click the ‘Pin’ icon to save the chart
+1.
+After drawing a chart, click the ‘Pin’ icon to save the chart
+
+
 
 2. In the ‘Save Report’ Dialogue, type a name for the report
 
