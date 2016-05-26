@@ -1,4 +1,4 @@
-# Tree view
+# Tree View
 
 ##Expand to level
 
@@ -22,7 +22,7 @@ Now it is much manageable. The ‘Expand to level’ dropdown lets you expand an
 
 ![](3-004.TVdepartment.png)
 
-##Summary card
+##Summary Card
 
 1. Open up the Card Panel in the Side Panel and choose the card type depending on the type of data you want to highlight. In this example, ‘Summary’ card has been selected. Summary card is useful when you want to display multiple properties for each node. (NB ‘Icon’ is the default card type)
 
@@ -30,13 +30,13 @@ Now it is much manageable. The ‘Expand to level’ dropdown lets you expand an
 
 ![](3-005.summarycard.png)
 
-##Scaled card
+##Scaled Card
 
 1. Now choose ‘Scaled’ card from the dropdown list
 
 2. Choose a ‘Title’, ‘Subtitle’ and ‘Size by’ to configure the Scaled card as you want. Scaled card helps to give a sense of proportion within the familiar org chart picture
 
-![](3-006scaledcard.png)
+![](3-006.scaledcard.png)
 
 ##Tree layout
 
@@ -52,7 +52,7 @@ OrgVue makes it easy to see as much detail as you need.
 
 **You can also move the Tree vertically and horizontally by left-clicking the screen and dragging anywhere in the canvas**
 
-![](3-008zoom.png)
+![](3-008.zoom.png)
 
 
 * **You can also zoom in or out using the mouse wheel**
@@ -63,35 +63,49 @@ Simply Drag and Drop a node or group of nodes to make changes to your tree.
 
 Executive Assistant currently reports to CEO. Now you want to make Executive Assistant and all their descendants report to CFO.
 
-1. Drag the Executive Assistant and drop onto CFO (waiting until the red ‘x’ by the cursor is gone)
+1.
+Drag the Executive Assistant and drop onto CFO (waiting until the red ‘x’ by the cursor is gone)
 
-![](3-009dragdrop1.png)
+![](3-009.dragdrop1.png)
 
-2. When the ‘Confirm’ Dialogue appears, click ‘OK’ to make Executive Assistant (and their descendants) a child of CFO
+2.
+When the ‘Confirm’ Dialogue appears, click ‘OK’ to make Executive Assistant (and their descendants) a child of CFO
 
 ![](3-010.dragdrop2.png)
 
-3. Now Executive Assistant (and their reports) reports up through the CFO
+3.
+Now Executive Assistant (and their reports) reports up through the CFO
 
 ![](3-011.dragdrop3.png)
 
 ##Drill through hierarchies in Tree View
 1. Expand to just Level 1
 
-2. When you hover the mouse over a node 5 icons will appear underneath it
+ hover the mouse over a node 5 icons will appear underneath it
 
 3. Drill down the hierarchy 1 level by clicking ![](3-012.droparrow.png)
 
 ![](3-013.hierarchy.png)
 
-![](3-014.arrowdescription.png)
+|Button|Function|
+|---|---|
+| ![](3-014A.arrow1.png) | Roll back all descendants, only the CEO node will be shown|
+| ![](3-014B.arrow2.png) | Roll up one level at a time in the tree
+|
+| ![](3-014C.arrow3.png) | Roll down one level at a time in the tree
+ |
+| ![](3-014D.arrow4.png) | The entire organisation will be shown (full tree expansion)
+ |
+| ![](3-014E.arrow5.png) | Clicking this will bring up ‘New Node’ Dialogue
+|
 
 
-##Exercise 1: Create the visuals described below in Tree View
+##Exercise 1: Create the visuals described below in Tree Vie
 
-1. In Tree View, set your data to ‘Level 3’. Then, create a view that shows the organisation Scaled by: 
+1.
+In Tree View, set your data to ‘Level 3’. Then, create a view that shows the organisation Scaled by: 
   
-  a) “Total Payroll Cost”
+   a) “Total Payroll Cost”
 
 then
 
@@ -150,7 +164,7 @@ Notice that COO incorrectly reports to the Executive Assistant – Make COO repo
 
 Now COO reports to CEO.
 
-![](3-020answer22.png)
+![](3-020.answer22.png)
 
 ##Learn more:
 
