@@ -45,5 +45,6 @@
    * [Learn more: Custom colour option (‘Passthrough’)](chapter05/learn_more_custom_colour_option_passthrough.md)
    * [Further information](chapter05/further_information.md)
 * [Exploring data](chapter06/readme.md)
+   * Search Box (Querying)
 * [Final assessment](final_assessment.md)
 
