@@ -1,4 +1,6 @@
-# Related blog posts
+#Further resources
+
+## Related blog posts
 
 [Painting with data](http://blog.orgvue.com/painting-with-data/
 )
