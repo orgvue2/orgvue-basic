@@ -10,15 +10,15 @@ The Filter Control is also a powerful tool to edit multiple nodes at once simply
 
 3. When the ‘Set property value’ Dialogue appears, confirm by clicking ‘Set’
 
-![](4-008filtercontrol.png)
+![](4-008.filtercontrol.png)
 
 You can drag and drop from one property column to another – allowing you to truly ‘Paint’ with your data!
 
-![](4-009filtercontrol2.png)
+![](4-009.filtercontrol2.png)
 
 You can also create a new category within the property by drag-and-drop. 
 
-![](4-010filtercontrol3.png)
+![](4-010.filtercontrol3.png)
 
 ##Pivot view
 
