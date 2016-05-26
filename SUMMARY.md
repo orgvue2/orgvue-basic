@@ -36,6 +36,7 @@
 * [Visualising data](chapter05/readme.md)
    * [Dashboards](chapter05/dashboards.md)
    * [Charts](chapter05/charts.md)
+   * Pivot view
 * [Exploring data](chapter06/readme.md)
 * [Final assessment](final_assessment.md)
 
