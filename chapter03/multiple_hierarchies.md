@@ -18,7 +18,7 @@ In OrgVue, create a new Dataset and paste the copied data
 3.
 When the ‘Paste options’ Dialogue appears, select ‘Tree (by IDs)’, Label by “Role”, choose “Employee ID” as ID and “Line Manager ID” as Parent ID
 
-![](3-021.multiplehierarchiesdataset.png)
+![](3-021.multiple_hierarchiesdataset.png
 
 
 ##View the current reporting structure
