@@ -21,7 +21,7 @@
    * [Paste and merge data](chapter02/paste_and_merge_data.md)
    * [Further resources](chapter02/further_resources.md)
 * [Working with hierarchical data](chapter03/readme.md)
-   * [Tree view](chapter03/tree_view.md)
+   * [Tree View](chapter03/tree_view.md)
    * [Multiple Hierarchies](chapter03/multiple_hierarchies.md)
    * [How-to guide for pictures](chapter03/how-to_guide_for_pictures.md)
    * [Further resources](chapter03/chapter_3_related_blog_posts.md)
