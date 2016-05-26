@@ -10,3 +10,6 @@ To generate the visual in the example below:
 
 2) In the Pivot Panel in Side Panel, set “Tenure Years” as ‘Columns’, “Grade” as ‘Rows’ and choose Rectangles for ‘Shapes’, then drag the ‘Max / cell’ slider to the right end 
 
+##Various shapes
+
+For summary cells you can select different shapes including circles, pictographs (scaled circles), sunflowers and treemaps (scaled rectangles).
