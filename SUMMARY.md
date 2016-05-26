@@ -39,7 +39,7 @@
    * [Pivot view](chapter05/pivot_view.md)
    * [Snapshot](chapter05/snapshot.md)
    * [Pinning](chapter05/pinning.md)
-   * Exercises
+   * [Exercises](chapter05/exercises.md)
 * [Exploring data](chapter06/readme.md)
 * [Final assessment](final_assessment.md)
 
