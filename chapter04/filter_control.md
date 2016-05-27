@@ -34,16 +34,11 @@ Once you are happy with your filtering choices you can choose from one of the fo
 
 | Icon | Function |
 | -- | -- |
-| ![](4-005A.applychoicesicon1.png) | Applies your current filters to your Dataset, which will be pushed through to all of your Views
- |
-| ![](4-005B.applychoicesicon2.png) | Clears all your current filters but keeps you in the Filter Control window
- |
-| ![](4-005C.applychoicesicon3.png) | Click on the padlock icon to switch modes: when unlocked, filters are automatically applied to your Dataset
- |
-| ![](4-005D.applychoicesicon4.png)| Copy the data filter(s) applied
- |
-| ![](4-005E.applychoicesicon5.png)| Use this icon to drag all nodes in the current filter(s) for further actions, e.g. cleansing, assigning new values and etc.
- |
+| ![](4-005A.applychoicesicon1.png) | Applies your current filters to your Dataset, which will be pushed through to all of your Views|
+| ![](4-005B.applychoicesicon2.png) | Clears all your current filters but keeps you in the Filter Control window|
+| ![](4-005C.applychoicesicon3.png) | Click on the padlock icon to switch modes: when unlocked, filters are automatically applied to your Dataset|
+| ![](4-005D.applychoicesicon4.png)| Copy the data filter(s) applied|
+| ![](4-005E.applychoicesicon5.png)| Use this icon to drag all nodes in the current filter(s) for further actions, e.g. cleansing, assigning new values and etc.|
 
 ![](4-005applychoices.png)
 
@@ -59,13 +54,13 @@ Once you are happy with your filtering choices you can choose from one of the fo
 
 ![](4-006.beforeafterfilter.png)
 
-##Metadata filters
+##Generated filters
 
-It is always possible to filter by a Metadata property in the Filter Control as they are not Dataset-dependant. 
+It is always possible to filter by a generated property in the Filter Control as they are not Dataset-dependant. 
 
 ![](4-007.metadatafilters.png)
 
-###List of metadata properties:
+###List of generated properties:
 
 * *Change* – Lets you filter to data that has been changed since last save
 * *Change Count*– Filter by the number of times the data has been changed since the last save
