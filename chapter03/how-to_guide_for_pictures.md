@@ -1,4 +1,4 @@
-##How-to guide: Add pictures to your org chart
+##Add pictures to your org chart
 
 ###Uploading pictures
 
@@ -15,7 +15,12 @@
 
 4. Uploaded images will be scaled automatically based on the Size setting
 
-![](3-030.propertypane.png)
+![](3I-003.addpics.png)
+
+* Use the Property Pane to add or replace an image file for a single node by uploading a new file or using Webcam
+
+![](3I-004.addpicsproperty.png)
+
 
 ###Displaying pictures
 
