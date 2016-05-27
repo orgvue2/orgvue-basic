@@ -13,7 +13,7 @@ Merge the data from the ‘Hours Worked per Week’ tab with the Employee Data
 
 Note: We will use this Dataset from chapter 2 to chapter 6.
 
-##Create your own 1505 Dataset in OrgVue
+###Create your own 1505 Dataset in OrgVue
 1.
 Open the ‘Ch2-6. 1505 Dataset.xlsx.’ file
 
@@ -42,7 +42,7 @@ Check your Dataset is pasted into the Worksheet as a hierarchy. Name your Datase
 
 
 
-##Paste and merge the ‘Hours Worked per Week’ data into your employee Dataset
+###Paste and merge the ‘Hours Worked per Week’ data into your employee Dataset
 
 1.
 Go to the ‘Hours Worked by Type’ tab in the ‘Ch2-6. 1505 Dataset.xlsx’ file. Copy all data.
@@ -65,13 +65,13 @@ Select ‘Merge on field’ when the ‘Paste options’ Dialogue appears, then 
 
 ![](2-006.pasteoptions.png)
 
-**If there are multiple properties upon which you can merge your new data into the existing Dataset, you can specify which property through the drop down list**
+**NOTE:** If there are multiple properties upon which you can merge your new data into the existing Dataset, you can specify which property through the drop down list
 
 5.
 Check new data is merged into the existing Dataset in OrgVue
 
-**Can’t see the new data in the Worksheet?
-Open up the Properties Panel in the Side Panel and see that the ‘Hours Worked Per Week’ property has been added to the list. Tick it to add it to the current Worksheet View.**
+**NOTE:**Can’t see the new data in the Worksheet?
+Open up the Properties Panel in the Side Panel and see that the ‘Hours Worked Per Week’ property has been added to the list. Tick it to add it to the current Worksheet View.
 
 ![](2-007.checkdatamerged.png)
 
