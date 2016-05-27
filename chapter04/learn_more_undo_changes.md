@@ -1,4 +1,4 @@
-# Learn more: Undo changes
+# Undo changes
 
 ##Roll-back arrow
 
