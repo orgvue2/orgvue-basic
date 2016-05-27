@@ -74,4 +74,35 @@ Click on ‘Add’ if you’re adding just one node, or click ‘Add and New’ 
 * It is not necessary to enter an ID Number when you create a new node – if you leave this blank, OrgVue will assign a unique ID Number for you
 
 
+##3. Use the OrgVue Upload Utility when you want to import data from large databases
+
+###Pre-requisites
+
+* Data to be uploaded must be in CSV format
+* The first row of data in the CSV file must contain the column headings
+* The CSV file must be a contiguous block of data (continuous rows and columns) i.e. the data should have no empty rows or columns, and no subheadings or sections
+
+![](2I-007.importdate.png)
+
+**Note:** The Upload Utility can be requested by contacting support@orgvue.com
+
+##4. OrgVue Webforms are created through a link that gives a restricted view of the Dataset (mobile & desktop compatible)
+
+![](2I-008.webformcreate.png)
+
+**Note:** Webforms are covered in more detail in the Advanced Training course.
+
+##5. OrgVue Surveys feed results instantly into the Dataset and let administrators track progress live
+
+![](2I-009.surveys.png)
+
+**Note:** Surveys are covered in more detail in the Advanced Training course.
+
+
+##6. OrgVue Tasks guide the user through a series of input screens and record the answers in the Dataset
+
+![](2I-010.tasks.png)
+
+**Note:** Task forms are covered in more detail in the Advanced Training course.
+
 
