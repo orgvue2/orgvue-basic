@@ -18,4 +18,4 @@ Notice that OrgVue recognises the spellings of most colours and will the colour 
 
 ![](5I-002.passthrough.png)
 
-**NOTE:** To learn more about custom colour options in OrgVue visit [support.orgvue.com](support.orgvue.com)
+**NOTE:** To learn more about custom colour options in OrgVue visit [support.orgvue.com](https://support.orgvue.com/hc/en-us)
