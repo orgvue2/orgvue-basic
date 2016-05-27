@@ -1,4 +1,4 @@
-# Learn more: 'Pause' and 'Go' buttons
+#'Pause' and 'Go' buttons
 
 Make use of ‘Pause’ and ‘Go’ buttons when you redraw visualisations with a large number of nodes. Pause and Go buttons exist in the Toolbar, and the Dashboard, Properties, Card, Chart, Pivot and Expression Panels in the Side Panel.
 
