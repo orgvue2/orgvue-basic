@@ -1,4 +1,4 @@
-# Learn more: Pagination
+# Pagination
 
 ##Adding pages to your Dataset
 

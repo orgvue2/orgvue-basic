@@ -19,6 +19,7 @@ Filter on “Gender” and click the ‘%’ button to show 57.9% male and 42.1%
 Filter using the ‘Is Duplicate’ metadata property to highlight the duplicates
 
 ![](4-027.answer1.2a.png)
+
 2.
 Drag the duplicate node onto ‘Delete’ on the Property Pane
 

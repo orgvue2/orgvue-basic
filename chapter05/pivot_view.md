@@ -16,6 +16,7 @@ To generate the visual in the example below:
 
 For summary cells you can select different shapes including circles, pictographs (scaled circles), sunflowers and treemaps (scaled rectangles).
 
-![](5-012.pivotviewshapes.png)
+![](5I-001.varioushapes.png)
 
-![](5-013.pivotviewshapes2.png)
+
+

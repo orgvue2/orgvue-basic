@@ -1,6 +1,4 @@
-# Snapshot
-
-##Exporting reports
+# Snapshot: Exporting reports
 
 You can export any of your charts in the current View from OrgVue.
 

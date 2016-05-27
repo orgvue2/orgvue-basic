@@ -1,6 +1,4 @@
-# Exercises
-
-##Create and export the following charts
+# Exercises: create and export the following charts
 
 1. Develop insight on “Total Annual Compensation” by “Department” and “Grade” (see if you can do this in a single Chart).  Also save this Chart from OrgVue to your desktop as a PDF
 

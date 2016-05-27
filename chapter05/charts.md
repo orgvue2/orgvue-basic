@@ -2,8 +2,9 @@
 
 ##Bar chart
 
-1. In Chart View, define your chart visualisations using the Charting Panel in the Side Panel.
-Navigate to Chart View via the Toolbar
+In Chart View, define your chart visualisations using the Charting Panel in the Side Panel.
+
+1. Navigate to Chart View via the Toolbar
 
 2. Select a chart type, e.g. bar chart
 
@@ -47,13 +48,9 @@ Through the Side Panel you can use Colour to give your visualisations extra mean
 
 | Option | Function |
 | -- | -- |
-| ‘Fixed’|Fills the same colour across all members of your Dimension
-|
-|‘Dimension’|Fills a different colour for each member of your Dimension
-|
-|‘Measure’|Colours your data by a numerical field (such as “Age”, “Salary”, etc…) 
-|
-|‘Passthrough’|Allows you to define custom colouring logic for individual values
-|
+| ‘Fixed’|Fills the same colour across all members of your Dimension|
+|‘Dimension’|Fills a different colour for each member of your Dimension|
+|‘Measure’|Colours your data by a numerical field (such as “Age”, “Salary”, etc…) |
+|‘Passthrough’|Allows you to define custom colouring logic for individual values|
 
 
