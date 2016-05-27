@@ -1,6 +1,4 @@
-# Pinning
-
-##Saving report to template
+# Pinning: saving report to template
 
 You can save a particular Dashboard or Chart for later use by Pinning reports – handy for sharing with other users.
 
