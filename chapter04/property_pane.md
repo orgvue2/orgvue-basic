@@ -70,7 +70,8 @@ Under ‘Type’ select ‘Number’ to view the current Bin logic for the Prope
 Alter the number of intervals using the ‘+’ and ‘-’ icons. Additionally, you can set quantiles or define completely customised Bin intervals for the Property
 
 ![](4-021.bininterval.png)
-4. 
+
+4.
 OrgVue automatically cascades your Bin logic changes to all visualisations referencing the particular Property
 
 ![](4-022.7bins.png)
@@ -81,7 +82,10 @@ OrgVue automatically cascades your Bin logic changes to all visualisations refer
 1.
 Click ‘Add property’
 
-![](4-024.addproperty.png)2. Set parameters for new property in the ‘Add Property’ Dialogue, then click ‘Add’
+![](4-024.addproperty.png)
+
+2.
+Set parameters for new property in the ‘Add Property’ Dialogue, then click ‘Add’
 
 ![](4-025.addproperty2.png)
 
