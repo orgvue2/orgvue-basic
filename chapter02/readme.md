@@ -48,6 +48,30 @@ Give your new Dataset a name and save it
 
 **Note:** Importing data from Excel is one of the most common ways Datasets are created in OrgVue
 
+##2. You can get data into OrgVue by direct entry from the Property Pane
+
+###How-to
+
+1.
+Open a blank Dataset
+
+2.
+Go to the bottom of the screen and click on ‘+ Add’. The ‘New Node’ Dialogue will appear
+
+3.
+Select ‘Top level’ since you have no existing data.  For consecutive people you want to add, specify whether you want to add a sibling, child or top-level node
+
+4.
+Type in the ‘Label’ (“Role” in this case)
+
+5.
+Click on ‘Add’ if you’re adding just one node, or click ‘Add and New’ if you’re adding more than one
+
+
+![](2I-006.directentry.png)
+
+* You can add new nodes in any View – it doesn’t have to be in Worksheet View
+* It is not necessary to enter an ID Number when you create a new node – if you leave this blank, OrgVue will assign a unique ID Number for you
 
 
 
