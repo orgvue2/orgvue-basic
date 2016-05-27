@@ -1,6 +1,4 @@
-# Multiple Hierarchies
-
-##Practice Overview
+# Exercise: Multiple hierarchies
 
 It is common to have multiple hierarchies in organisational data, e.g. matrix reporting. In OrgVue you can set up and view multiple hierarchies in the same organisation. The alternative hierarchies share the same primary key (e.g. “Employee ID”), but have a different parent key (e.g. “Functional Manager ID”).
 
@@ -8,15 +6,11 @@ In the example organisation ‘Ch3. Multiple hierarchies.xlsx’, the current re
 
 ##Create a new Dataset using copy/ paste
 
-1.
-Open the ‘Ch3. Multiple hierarchies.xlsx.’ file and copy all data
+1. Open the ‘Ch3. Multiple hierarchies.xlsx.’ file and copy all data
 
+2.  In OrgVue, create a new Dataset and paste the copied data
 
-2.
-In OrgVue, create a new Dataset and paste the copied data
-
-3.
-When the ‘Paste options’ Dialogue appears, select ‘Tree (by IDs)’, Label by “Role”, choose “Employee ID” as ID and “Line Manager ID” as Parent ID
+3. When the ‘Paste options’ Dialogue appears, select ‘Tree (by IDs)’, Label by “Role”, choose “Employee ID” as ID and “Line Manager ID” as Parent ID
 
 ![](3-021.multiplehierarchies.png)
 
