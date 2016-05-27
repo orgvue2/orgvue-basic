@@ -56,7 +56,7 @@ In the ‘Edit Property’ Dialogue, you can change property settings or delete 
 
 ![](4-020.propertyedit2.png)
 
-**Property settings will be covered in detail in Advanced Training.**
+**Property settings will be covered in detail in [Advanced Training](https://www.orgvue.com/sites/default/files/uploads/orgvue_advanced_training_syllabus.pdf)**
 
 ###Edit number of bins
 
@@ -69,7 +69,9 @@ Under ‘Type’ select ‘Number’ to view the current Bin logic for the Prope
 3.
 Alter the number of intervals using the ‘+’ and ‘-’ icons. Additionally, you can set quantiles or define completely customised Bin intervals for the Property
 
-![](4-021.bininterval.png)4. OrgVue automatically cascades your Bin logic changes to all visualisations referencing the particular Property
+![](4-021.bininterval.png)
+4. 
+OrgVue automatically cascades your Bin logic changes to all visualisations referencing the particular Property
 
 ![](4-022.7bins.png)
 ![](4-023.12bins.png)
