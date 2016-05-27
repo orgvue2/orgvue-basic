@@ -12,13 +12,15 @@ Now it is much manageable. The ‘Expand to level’ dropdown lets you expand an
 
 #Colour by
 
-1. Apply colouring using the Color Control (colour by “Department”)
+1.
+Apply colouring using the Color Control (colour by “Department”)
 
 ![](3-003.colourcontrol.png)
 
 **The colour scheme you apply in the Side Panel applies to all views.**
 
-2. Hovering over a department in the Side Panel will highlight that department in the Tree
+2.
+Hovering over a department in the Side Panel will highlight that department in the Tree
 
 ![](3-004.TVdepartment.png)
 
@@ -50,12 +52,13 @@ OrgVue makes it easy to see as much detail as you need.
 
 * 
 
-**You can also move the Tree vertically and horizontally by left-clicking the screen and dragging anywhere in the canvas**
+You can also move the Tree vertically and horizontally by left-clicking the screen and dragging anywhere in the canvas
+
+* You can also zoom in or out using the mouse wheel
 
 ![](3-008.zoom.png)
 
 
-* **You can also zoom in or out using the mouse wheel**
 
 ##Change reporting structure using Drag-and-Drop
 
@@ -90,14 +93,10 @@ Now Executive Assistant (and their reports) reports up through the CFO
 |Button|Function|
 |---|---|
 | ![](3-014A.arrow1.png) | Roll back all descendants, only the CEO node will be shown|
-| ![](3-014B.arrow2.png) | Roll up one level at a time in the tree
-|
-| ![](3-014C.arrow3.png) | Roll down one level at a time in the tree
- |
-| ![](3-014D.arrow4.png) | The entire organisation will be shown (full tree expansion)
- |
-| ![](3-014E.arrow5.png) | Clicking this will bring up ‘New Node’ Dialogue
-|
+| ![](3-014B.arrow2.png) | Roll up one level at a time in the tree|
+| ![](3-014C.arrow3.png) | Roll down one level at a time in the tree|
+| ![](3-014D.arrow4.png) | The entire organisation will be shown (full tree expansion) |
+| ![](3-014E.arrow5.png) | Clicking this will bring up ‘New Node’ Dialogue|
 
 
 ##Exercise 1: Create the visuals described below in Tree Vie
@@ -111,8 +110,10 @@ then
 
   b) “Span of control” (select “Outgoing Count”)
 
+2.
 Show the whole of your organisation as a Sunburst coloured by “Performance Ranking”
 
+3.
 Show the top 2 Levels of the organisation with a Summary card with the following properties (in the same order), and coloured by “Absence Days”
 
 * Title: “Role”
@@ -128,9 +129,7 @@ Other Properties: “Full name”, “Gender”, “Grade”, “Current Salary�
 Hint: Level 3, Tree layout, Scaled card, Size by “Total Payroll cost” and then after by “Outgoing count”
 
 ![](3-015.answer1.11.png)
-
-![](3-016answer1.12.png)
-
+![](3-016.answer1.12.png)
 ##Answer 1.2:
 
 
@@ -166,11 +165,7 @@ Now COO reports to CEO.
 
 ![](3-020.answer22.png)
 
-##Learn more:
 
-1. **Multiple hierarchies**
-
-2. **How-to guide: add pictures of your chart**
 
 
 
