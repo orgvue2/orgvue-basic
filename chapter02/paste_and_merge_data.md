@@ -75,7 +75,7 @@ Open up the Properties Panel in the Side Panel and see that the ‘Hours Worked 
 
 ![](2-007.checkdatamerged.png)
 
-##Validate merging in Pivot View
+#~#Validate merging in Pivot View
 
 Navigate to Pivot View and see whether all values have been merged.
 
