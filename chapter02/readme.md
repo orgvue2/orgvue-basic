@@ -25,26 +25,19 @@
 
 ###How-to
 
-1.
-Open the Excel spreadsheet and select all rows and columns using Ctrl+A
+1. Open the Excel spreadsheet and select all rows and columns using Ctrl+A
 
-2.
-Copy selected data using Ctrl+C
+2. Copy selected data using Ctrl+C
 
-3.
-In OrgVue, go to the top right-hand corner and click the ‘+’ icon to add a new Dataset
+3. In OrgVue, go to the top right-hand corner and click the ‘+’ icon to add a new Dataset
 
-4.
-In the new Dataset, go to the top right-hand corner and click ‘Paste’
+4. In the new Dataset, go to the top right-hand corner and click ‘Paste’
 
-5.
-The ‘Paste data from clipboard’ Dialogue will appear.  Press Ctrl+V to paste the data
+5. The ‘Paste data from clipboard’ Dialogue will appear.  Press Ctrl+V to paste the data
 
-6.
-The ‘Data Mapping’ Dialogue will appear.  To see your data as a hierarchy, select ‘Tree (by ID’s)’
+6. The ‘Data Mapping’ Dialogue will appear.  To see your data as a hierarchy, select ‘Tree (by ID’s)’
 
-7.
-Give your new Dataset a name and save it
+7. Give your new Dataset a name and save it
 
 **Note:** Importing data from Excel is one of the most common ways Datasets are created in OrgVue
 
@@ -52,20 +45,15 @@ Give your new Dataset a name and save it
 
 ###How-to
 
-1.
-Open a blank Dataset
+1. Open a blank Dataset
 
-2.
-Go to the bottom of the screen and click on ‘+ Add’. The ‘New Node’ Dialogue will appear
+2. Go to the bottom of the screen and click on ‘+ Add’. The ‘New Node’ Dialogue will appear
 
-3.
-Select ‘Top level’ since you have no existing data.  For consecutive people you want to add, specify whether you want to add a sibling, child or top-level node
+3. Select ‘Top level’ since you have no existing data.  For consecutive people you want to add, specify whether you want to add a sibling, child or top-level node
 
-4.
-Type in the ‘Label’ (“Role” in this case)
+4. Type in the ‘Label’ (“Role” in this case)
 
-5.
-Click on ‘Add’ if you’re adding just one node, or click ‘Add and New’ if you’re adding more than one
+5. Click on ‘Add’ if you’re adding just one node, or click ‘Add and New’ if you’re adding more than one
 
 
 ![](2I-006.directentry.png)
