@@ -69,7 +69,7 @@
 * The first row of data in the CSV file must contain the column headings
 * The CSV file must be a contiguous block of data (continuous rows and columns) i.e. the data should have no empty rows or columns, and no subheadings or sections
 
-![](2I-007.importdate.png)
+![](2I-007.uploadutility.png)
 
 **Note:** The Upload Utility can be requested by contacting support@orgvue.com
 
