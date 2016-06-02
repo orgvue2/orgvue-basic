@@ -12,15 +12,13 @@ Now it is much manageable. The ‘Expand to level’ dropdown lets you expand an
 
 #Colour by
 
-1.
-Apply colouring using the Color Control (colour by “Department”)
+1. Apply colouring using the Color Control (colour by “Department”)
 
-![](3-003.colourcontrol.png)
+  ![](3-003.colourcontrol.png)
 
-**The colour scheme you apply in the Side Panel applies to all views.**
+  **The colour scheme you apply in the Side Panel applies to all views.**
 
-2.
-Hovering over a department in the Side Panel will highlight that department in the Tree
+2. Hovering over a department in the Side Panel will highlight that department in the Tree
 
 ![](3-004.TVdepartment.png)
 
