@@ -31,4 +31,4 @@ Common operators such as `>`, `<`, `OR`, `AND` also can be used to help your sea
 
 ![](6-005.searchoperators.png)
 
-**Note:**: To learn advanced search visit [support.orgvue.com](support.orgvue.com)
+**Note**: To learn advanced search visit [support.orgvue.com](support.orgvue.com)
