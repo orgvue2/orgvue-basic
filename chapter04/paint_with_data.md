@@ -46,8 +46,10 @@ In the example, there are two different forms indicating the same country – �
 
 ![](4-012.splashcommand.png)
 
-* **Use the !* ending to copy a value down for each node within the filtered subset**
+**Note:**
 
-* **Use the !a* (e.g. UK!a*) ending to splash values to all, overriding the current filters**
+* Use the !\* ending to copy a value down for each node within the filtered subset
 
-* **In the Filter Control tick *‘Changes’*  to see which nodes have been changed after Splashing**
+* Use the !a\* (e.g. UK!a\*) ending to splash values to all, overriding the current filters
+
+* In the Filter Control tick *‘Changes’*  to see which nodes have been changed after Splashing
