@@ -45,7 +45,7 @@ Filter on “Gender” and click the ‘%’ button to show 57.9% male and 42.1%
 
 1. Filtering on “Area” and “Revenue” and selecting “Glasgow” will highlight five nodes with no Revenue assigned to them
 
-![](4-031.answer2.2a.png)
+  ![](4-031.answer2.2a.png)
 
 2. Apply the filter and use a splash command (50000!*) in Worksheet View to set the Revenue as 50,000
 
