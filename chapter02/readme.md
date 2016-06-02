@@ -12,8 +12,7 @@
 | -- | -- | -- | -- |
 |  | ![](2I-002.webform.png)| ![](2I-003.survey.png) | ![](2I-004.tasks.png)
 | What? | Online forms that allows users to update a Dataset, requires users to have an OrgVue login| Customisable surveys that can be administered via OrgVue, can be sent to anyone - response progress is tracked  | A single URL containing several bespoke apps, requires users to have access to OrgVue|
-| When to use? | Useful when you want multiple users to **update** various aspects of a Dataset without logging in to Workspace | Useful when you want to gather **one-off** information from a large number of respondents and aggregate the results| Useful when you want to guide users through a **data entry process**, especially if it involves dynamic workflow/ approval
- |
+| When to use? | Useful when you want multiple users to **update** various aspects of a Dataset without logging in to Workspace | Useful when you want to gather **one-off** information from a large number of respondents and aggregate the results| Useful when you want to guide users through a **data entry process**, especially if it involves dynamic workflow/ approval|
 ##1. If you have data in the form of columns and rows, copy and paste it into OrgVue
 
 ###Required Excel format
