@@ -2,18 +2,14 @@
 
 ##Delete nodes
 
-1.
-To delete a node, select a node in any view and click on the ‘- Delete’ icon at the bottom of the screen or drag a node onto it
+1. To delete a node, select a node in any view and click on the ‘- Delete’ icon at the bottom of the screen or drag a node onto it
+  ![](4-013.proppanedelete1.png)
 
-![](4-013.proppanedelete1.png)
+2. 
+  3. If you’re deleting a node with no children, just click ‘OK’ 
 
-2-1. If you’re deleting a node with no children, just click ‘OK’ 
-
-![](4-014.propanedelete2.png)
-
-
-2-2.
-If you’re deleting a node with children, select one of the three options, then click ‘OK’
+    ![](4-014.propanedelete2.png)
+  4. If you’re deleting a node with children, select one of the three options, then click ‘OK’
 
 ![](4-015.proppanedelete3.png)
 
