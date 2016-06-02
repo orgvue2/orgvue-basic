@@ -20,7 +20,7 @@
 * Use the Property Pane to add or replace an image file for a single node by uploading a new file or using Webcam
 
 ![](3I-004.addpicsproperty.png)
-
+![](3-031.orgchartpics2.png)
 
 ###Displaying pictures
 
@@ -30,4 +30,3 @@
 
 3. You can enlarge and reduce the size of images displayed using the ‘Icon size’ slider
 
-![](3-031.orgchartpics2.png)
