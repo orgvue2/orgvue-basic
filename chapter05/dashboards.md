@@ -18,6 +18,7 @@ The ‘Box Grid’ Dashboard is useful for cross-tabulating properties and analy
 
 ![](5-002.boxgrid.png)
 
+
 ##Data Types and Patterns
 
 As we have already seen, the ‘Data Types and Patterns’ Dashboard allows you to immediately understand data patterns and spot errors in your Dataset.
