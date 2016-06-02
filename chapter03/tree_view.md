@@ -64,25 +64,22 @@ Simply Drag and Drop a node or group of nodes to make changes to your tree.
 
 Executive Assistant currently reports to CEO. Now you want to make Executive Assistant and all their descendants report to CFO.
 
-1.
-Drag the Executive Assistant and drop onto CFO (waiting until the red ‘x’ by the cursor is gone)
+1. Drag the Executive Assistant and drop onto CFO (waiting until the red ‘x’ by the cursor is gone)
 
-![](3-009.dragdrop1.png)
+  ![](3-009.dragdrop1.png)
 
-2.
-When the ‘Confirm’ Dialogue appears, click ‘OK’ to make Executive Assistant (and their descendants) a child of CFO
+2. When the ‘Confirm’ Dialogue appears, click ‘OK’ to make Executive Assistant (and their descendants) a child of CFO
 
-![](3-010.dragdrop2.png)
+  ![](3-010.dragdrop2.png)
 
-3.
-Now Executive Assistant (and their reports) reports up through the CFO
+3. Now Executive Assistant (and their reports) reports up through the CFO
 
 ![](3-011.dragdrop3.png)
 
 ##Drill through hierarchies in Tree View
 1. Expand to just Level 1
 
- hover the mouse over a node 5 icons will appear underneath it
+2. When you hover the mouse over a node 5 icons will appear underneath it
 
 3. Drill down the hierarchy 1 level by clicking ![](3-012.droparrow.png)
 
