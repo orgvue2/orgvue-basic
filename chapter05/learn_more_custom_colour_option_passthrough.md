@@ -8,11 +8,10 @@
 
 3. Open up ‘Color’ Dialogue, then select the ‘Passthrough’ option and choose “Custom Colour” from the ‘Column’ drop-down list
 
-![](5-030.customcolour2.png)
+  ![](5-030.customcolour2.png)
 
-4.
-Notice that OrgVue recognises the spellings of most colours and will the colour you have specified for each node in all Views
+4. Notice that OrgVue recognises the spellings of most colours and will the colour you have specified for each node in all Views
 
-![](5I-002.passthrough.png)
+   ![](5I-002.passthrough.png)
 
 **NOTE:** To learn more about custom colour options in OrgVue visit [support.orgvue.com](https://support.orgvue.com/hc/en-us)
