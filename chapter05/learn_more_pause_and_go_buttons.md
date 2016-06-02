@@ -6,4 +6,4 @@ Single click the ‘pause’ icon to suspend re-caluclation. Similarly, single c
 
 ![](5-023.pauseandgo.png)
 
-**‘Pause’ button will prevent re-rendering the data with every user interaction, leading to performance gain**
+**Note**: ‘Pause’ button will prevent re-rendering the data with every user interaction, leading to performance gain
