@@ -5,43 +5,29 @@ Check the Properties Panel in the Side Panel to check your merge was successful�
 
 ##Task: practice paste and merge using 1505 Dataset
 
-1.
-Create your own 1505 Dataset using the Employee Data tab in ‘Ch2 – 6. 1505 Dataset.xlsx’ 
+1. Create your own 1505 Dataset using the Employee Data tab in ‘Ch2 – 6. 1505 Dataset.xlsx’ 
 
-2.
-Merge the data from the ‘Hours Worked per Week’ tab with the Employee Data
+2. Merge the data from the ‘Hours Worked per Week’ tab with the Employee Data
 
-Note: We will use this Dataset from chapter 2 to chapter 6.
+**Note**: We will use this Dataset from chapter 2 to chapter 6.
 
 ###Create your own 1505 Dataset in OrgVue
-1.
-Open the ‘Ch2-6. 1505 Dataset.xlsx.’ file
+1. Open the ‘Ch2-6. 1505 Dataset.xlsx.’ file
 
-2.
-Select all data in the ‘Employee Data’ tab using Ctrl+A and copy it using Ctrl+C
+2. Select all data in the ‘Employee Data’ tab using Ctrl+A and copy it using Ctrl+C
 
-3.
-Go to the Home screen and click the ‘+’ icon at the top right
+3. Go to the Home screen and click the ‘+’ icon at the top right
 
-![](2-001.createdatasets.png)
+  ![](2-001.createdatasets.png)
+4. In the new worksheet, click 'Paste'
 
-4.
-In the new worksheet, click 'Paste'
+5. The ‘Paste options’ Dialogue will appear. Select ‘Tree by IDs’ and set the ‘Label’ as “Full name”)
 
-5.
-The ‘Paste options’ Dialogue will appear. Select ‘Tree by IDs’ and set the ‘Label’ as “Full name”)
+  ![](2-002.pasteoptions.png)
 
-![](2-002.pasteoptions.png)
-
-6.
-Check your Dataset is pasted into the Worksheet as a hierarchy. Name your Dataset <1505 – your name> and save it
+6. Check your Dataset is pasted into the Worksheet as a hierarchy. Name your Dataset ```<1505 – your name>``` and save it
 
 ![](2-003.namedataset.png)
-
-**Click and see details of warning – duplicated nodes. It provides information about errors in the Dataset.**
-
-
-
 ###Paste and merge the ‘Hours Worked per Week’ data into your employee Dataset
 
 1.
