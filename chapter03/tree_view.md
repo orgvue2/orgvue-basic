@@ -98,11 +98,11 @@ Executive Assistant currently reports to CEO. Now you want to make Executive Ass
 
 1. In Tree View, set your data to ‘Level 3’. Then, create a view that shows the organisation **Scaled by**: 
   
-  a) “Total Payroll Cost”
+  i. “Total Payroll Cost”
 
   then
 
-  b) “Span of control” (select *“Outgoing Count”*)
+  ii. “Span of control” (select *“Outgoing Count”*)
 
 2. Show the whole of your organisation as a **Sunburst** coloured by “Performance Ranking”
 
