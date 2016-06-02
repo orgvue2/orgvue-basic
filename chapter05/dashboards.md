@@ -18,6 +18,7 @@ The ‘Box Grid’ Dashboard is useful for cross-tabulating properties and analy
 
 ![](5-002.boxgrid.png)
 
+
 ##Data Types and Patterns
 
 As we have already seen, the ‘Data Types and Patterns’ Dashboard allows you to immediately understand data patterns and spot errors in your Dataset.
@@ -40,4 +41,5 @@ The ‘Headcount By Date’ Dashboard counts nodes between two different Date Pr
 
 You can change the ‘Period Length’ and ‘Number of Periods’ to view specific time periods and intervals.
 
-![](5-005.headcountbydate2.png)
+![](5-005.periods.png)
+

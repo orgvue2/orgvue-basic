@@ -9,7 +9,6 @@ You can paginate your Charts by any Dimensions or Measures. Pagination works in 
 2. In the ‘Pages’ Dialogue that appears, choose one or more properties from the dropdown list and click ‘OK’. To remove your Pagination criteria simply click the ![](5-024.paginationicon.png) icon in the ‘Pages’ Dialogue
 
 ![](5-025.addingpages.png)
-
 ##Display
 
 After setting pagination criteria, you can view your sub charts (in Chart View).

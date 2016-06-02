@@ -12,15 +12,13 @@ Now it is much manageable. The ‘Expand to level’ dropdown lets you expand an
 
 #Colour by
 
-1.
-Apply colouring using the Color Control (colour by “Department”)
+1. Apply colouring using the Color Control (colour by “Department”)
 
-![](3-003.colourcontrol.png)
+  ![](3-003.colourcontrol.png)
 
-**The colour scheme you apply in the Side Panel applies to all views.**
+  **The colour scheme you apply in the Side Panel applies to all views.**
 
-2.
-Hovering over a department in the Side Panel will highlight that department in the Tree
+2. Hovering over a department in the Side Panel will highlight that department in the Tree
 
 ![](3-004.TVdepartment.png)
 
@@ -66,25 +64,22 @@ Simply Drag and Drop a node or group of nodes to make changes to your tree.
 
 Executive Assistant currently reports to CEO. Now you want to make Executive Assistant and all their descendants report to CFO.
 
-1.
-Drag the Executive Assistant and drop onto CFO (waiting until the red ‘x’ by the cursor is gone)
+1. Drag the Executive Assistant and drop onto CFO (waiting until the red ‘x’ by the cursor is gone)
 
-![](3-009.dragdrop1.png)
+  ![](3-009.dragdrop1.png)
 
-2.
-When the ‘Confirm’ Dialogue appears, click ‘OK’ to make Executive Assistant (and their descendants) a child of CFO
+2. When the ‘Confirm’ Dialogue appears, click ‘OK’ to make Executive Assistant (and their descendants) a child of CFO
 
-![](3-010.dragdrop2.png)
+  ![](3-010.dragdrop2.png)
 
-3.
-Now Executive Assistant (and their reports) reports up through the CFO
+3. Now Executive Assistant (and their reports) reports up through the CFO
 
 ![](3-011.dragdrop3.png)
 
 ##Drill through hierarchies in Tree View
 1. Expand to just Level 1
 
- hover the mouse over a node 5 icons will appear underneath it
+2. When you hover the mouse over a node 5 icons will appear underneath it
 
 3. Drill down the hierarchy 1 level by clicking ![](3-012.droparrow.png)
 
@@ -101,20 +96,17 @@ Now Executive Assistant (and their reports) reports up through the CFO
 
 ##Exercise 1: Create the visuals described below in Tree Vie
 
-1.
-In Tree View, set your data to ‘Level 3’. Then, create a view that shows the organisation Scaled by: 
+1. In Tree View, set your data to ‘Level 3’. Then, create a view that shows the organisation **Scaled by**: 
   
-   a) “Total Payroll Cost”
+  a) “Total Payroll Cost”
 
-then
+  then
 
-  b) “Span of control” (select “Outgoing Count”)
+  b) “Span of control” (select *“Outgoing Count”*)
 
-2.
-Show the whole of your organisation as a Sunburst coloured by “Performance Ranking”
+2. Show the whole of your organisation as a **Sunburst** coloured by “Performance Ranking”
 
-3.
-Show the top 2 Levels of the organisation with a Summary card with the following properties (in the same order), and coloured by “Absence Days”
+3. Show the top 2 Levels of the organisation with a **Summary card** with the following properties (in the same order), and coloured by “Absence Days”
 
 * Title: “Role”
 
@@ -126,21 +118,21 @@ Other Properties: “Full name”, “Gender”, “Grade”, “Current Salary�
 
 ##Answer 1.1:
 
-Hint: Level 3, Tree layout, Scaled card, Size by “Total Payroll cost” and then after by “Outgoing count”
+**Hint**: Level 3, Tree layout, Scaled card, Size by “Total Payroll cost” and then after by “Outgoing count”
 
 ![](3-015.answer1.11.png)
 ![](3-016.answer1.12.png)
 ##Answer 1.2:
 
 
-Hint: Level 9, Sunburst layout, Colour by ‘Measure’ and “Performance ranking”, select a palette showing RAG status
+**Hint**: Level 9, Sunburst layout, Colour by ‘Measure’ and “Performance ranking”, select a palette showing RAG status
 
 ![](3-017.answer1.2.png)
 
 ##Answer 1.3
 
 
-Hint: Level 2, Tree layout, Summary card, display “Role” as title, “Department” as subtitle, tick “Full name”, “Gender”, “Grade”, “Current Salary”, “Performance ranking” from the list. Colour by “Absence days”
+**Hint**: Level 2, Tree layout, Summary card, display “Role” as title, “Department” as subtitle, tick “Full name”, “Gender”, “Grade”, “Current Salary”, “Performance ranking” from the list. Colour by “Absence days”
 
 ![](3-018.answer1.3.png)
 

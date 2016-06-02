@@ -22,6 +22,8 @@ Choose percentage bars to see your data by percentage breakdowns along the Dimen
 
 ![](5-007.splitbarchart.png)
 
+
+
 ##Scatter plot
 
 Scatter plot is useful when viewing the relationship between 2 measures.
@@ -39,6 +41,7 @@ Line graph is useful to show the trends in your Dataset.
 2. To display multiple items (i.e. multiple lines) on a graph, colour by a Dimension.
 
 ![](5-009.linegraph.png)
+
 
 ##Colouring options
 
