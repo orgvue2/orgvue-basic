@@ -96,20 +96,17 @@ Executive Assistant currently reports to CEO. Now you want to make Executive Ass
 
 ##Exercise 1: Create the visuals described below in Tree Vie
 
-1.
-In Tree View, set your data to ‘Level 3’. Then, create a view that shows the organisation Scaled by: 
+1. In Tree View, set your data to ‘Level 3’. Then, create a view that shows the organisation **Scaled by**: 
   
-   a) “Total Payroll Cost”
+  a) “Total Payroll Cost”
 
-then
+  then
 
-  b) “Span of control” (select “Outgoing Count”)
+  b) “Span of control” (select *“Outgoing Count”*)
 
-2.
-Show the whole of your organisation as a Sunburst coloured by “Performance Ranking”
+2. Show the whole of your organisation as a **Sunburst** coloured by “Performance Ranking”
 
-3.
-Show the top 2 Levels of the organisation with a Summary card with the following properties (in the same order), and coloured by “Absence Days”
+3. Show the top 2 Levels of the organisation with a **Summary card** with the following properties (in the same order), and coloured by “Absence Days”
 
 * Title: “Role”
 
@@ -121,21 +118,21 @@ Other Properties: “Full name”, “Gender”, “Grade”, “Current Salary�
 
 ##Answer 1.1:
 
-Hint: Level 3, Tree layout, Scaled card, Size by “Total Payroll cost” and then after by “Outgoing count”
+**Hint**: Level 3, Tree layout, Scaled card, Size by “Total Payroll cost” and then after by “Outgoing count”
 
 ![](3-015.answer1.11.png)
 ![](3-016.answer1.12.png)
 ##Answer 1.2:
 
 
-Hint: Level 9, Sunburst layout, Colour by ‘Measure’ and “Performance ranking”, select a palette showing RAG status
+**Hint**: Level 9, Sunburst layout, Colour by ‘Measure’ and “Performance ranking”, select a palette showing RAG status
 
 ![](3-017.answer1.2.png)
 
 ##Answer 1.3
 
 
-Hint: Level 2, Tree layout, Summary card, display “Role” as title, “Department” as subtitle, tick “Full name”, “Gender”, “Grade”, “Current Salary”, “Performance ranking” from the list. Colour by “Absence days”
+**Hint**: Level 2, Tree layout, Summary card, display “Role” as title, “Department” as subtitle, tick “Full name”, “Gender”, “Grade”, “Current Salary”, “Performance ranking” from the list. Colour by “Absence days”
 
 ![](3-018.answer1.3.png)
 
