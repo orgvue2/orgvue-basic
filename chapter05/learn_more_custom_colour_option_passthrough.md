@@ -1,15 +1,12 @@
 #Custom colour option (‘Passthrough’)
 
-1.
-To manually set the colour for each node or group of nodes, first create a new property (in the example below this is called “Custom Colour”)
+1. To manually set the colour for each node or group of nodes, first create a new property (in the example below this is called “Custom Colour”)
 
-2.
-In that property, enter the name of popular colours, e.g. “Red”, “Blue”, “Orange”. Alternatively use hexadecimal colour codes, e.g. “#FF0000” for Red
+2. In that property, enter the name of popular colours, e.g. “Red”, “Blue”, “Orange”. Alternatively use hexadecimal colour codes, e.g. “#FF0000” for Red
 
-![](5-029.customcolour1.png)
+  ![](5-029.customcolour1.png)
 
-3.
-Open up ‘Color’ Dialogue, then select the ‘Passthrough’ option and choose “Custom Colour” from the ‘Column’ drop-down list
+3. Open up ‘Color’ Dialogue, then select the ‘Passthrough’ option and choose “Custom Colour” from the ‘Column’ drop-down list
 
 ![](5-030.customcolour2.png)
 
