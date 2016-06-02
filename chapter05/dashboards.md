@@ -41,4 +41,3 @@ The ‘Headcount By Date’ Dashboard counts nodes between two different Date Pr
 
 You can change the ‘Period Length’ and ‘Number of Periods’ to view specific time periods and intervals.
 
-![](5-005.headcountbydate2.png)
