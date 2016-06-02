@@ -14,12 +14,13 @@ In Chart View, define your chart visualisations using the Charting Panel in the 
 
 5. Colour your charts by some property
 
-
+![](5-006.barchart.png)
 
 ##Split Bar chart (100%) 
 
 Choose percentage bars to see your data by percentage breakdowns along the Dimensions.
 
+f
 ![](5-007.splitbarchart.png)
 
 ##Scatter plot
