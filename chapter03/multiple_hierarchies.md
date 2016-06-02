@@ -13,7 +13,7 @@ In the example organisation ‘Ch3. Multiple hierarchies.xlsx’, the current re
 3. When the ‘Paste options’ Dialogue appears, select ‘Tree (by IDs)’, Label by “Role”, choose “Employee ID” as ID and “Line Manager ID” as Parent ID
 
 ![](3-021.multiplehierarchies.png)
-
+  
 ##View the current reporting structure
 
 1. Go to Tree View and choose ‘Icon’ card and select “Role” as Title and “Region” as Subtitle
@@ -34,24 +34,19 @@ In the example organisation ‘Ch3. Multiple hierarchies.xlsx’, the current re
 
 ##Build an alternative hierarchy
 
-1.
-In Tree View, switch ‘Parent ID’ from “Line Manager ID” to “Functional Manager ID” (your nodes will become orphans)
+1. In Tree View, switch ‘Parent ID’ from “Line Manager ID” to “Functional Manager ID” (your nodes will become orphans)
 
-2.
-Choose ‘Icon’ card and select “Role” as Title and “Department” as Subtitle
+2. Choose ‘Icon’ card and select “Role” as Title and “Department” as Subtitle
 
-3.
-Colour by “Department”
+3. Colour by “Department”
 
-![](3-024.althierarchy.png)
+  ![](3-024.althierarchy.png)
 
-4.
-Set up a function-based hierarchy by dragging and dropping the nodes and re-parenting them
+4. Set up a function-based hierarchy by dragging and dropping the nodes and re-parenting them
 
-![](3-025.althierarchy2.png)
+   ![](3-025.althierarchy2.png)
 
-5.
-Switch to Worksheet View and find that “Functional Manager ID” has been populated with values (IDs)
+5. Switch to Worksheet View and find that “Functional Manager ID” has been populated with values (IDs)
 
 ![](3-026.althierarchy3.png)
 
