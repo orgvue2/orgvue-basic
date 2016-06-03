@@ -14,4 +14,4 @@
 
    ![](5I-002.passthrough.png)
 
-**NOTE:** To learn more about custom colour options in OrgVue visit [support.orgvue.com](https://support.orgvue.com/hc/en-us)
+**Note:** To learn more about custom colour options in OrgVue visit the [OrgVue Portal](https://support.orgvue.com/hc/en-us)
