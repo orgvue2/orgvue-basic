@@ -19,7 +19,7 @@ Use `‘[property name]: [value]’` to search for values in a specific property
 
 ![](6-002.specificproperty.png)
 
-Use ‘[x]..[y]’ to search for nodes containing values between x and y
+Use ```[x]..[y]``` to search for nodes containing values between x and y
 
 ![](6-003.nodesearch.png)
 
@@ -31,4 +31,4 @@ Common operators such as `>`, `<`, `OR`, `AND` also can be used to help your sea
 
 ![](6-005.searchoperators.png)
 
-**Note**: To learn advanced search visit [support.orgvue.com](support.orgvue.com)
+**Note**: To learn advanced search visit [OrgVue Portal](support.orgvue.com)
