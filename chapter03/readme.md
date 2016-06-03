@@ -4,6 +4,6 @@
 
 ![](3I-001.dataparadigm.png)
 
-###Hierarchies (trees) have a well-defined vocabulary which is honoured throughout the OrgVue product
+##Hierarchies (trees) have a well-defined vocabulary which is honoured throughout the OrgVue product
 
 ![](3I-002.hierarchies.png)
