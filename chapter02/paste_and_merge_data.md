@@ -1,6 +1,7 @@
 # Paste and merge data with the existing Dataset
 
 Paste merging works like a VLOOKUP in Excel, in that when you copy data into OrgVue you need to have a property common to both tables and this is the field used to merge data into OrgVue.
+
 Check the Properties Panel in the Side Panel to check your merge was successful– the Properties Panel lets you select which properties are displayed on the Worksheet, in what order (30 max.)  
 
 ##Task: practice paste and merge using 1505 Dataset
@@ -48,7 +49,7 @@ Check the Properties Panel in the Side Panel to check your merge was successful�
 
 5. Check new data is merged into the existing Dataset in OrgVue
 
-  **NOTE:**Can’t see the new data in the Worksheet?
+  **NOTE:** Can’t see the new data in the Worksheet?
 Open up the Properties Panel in the Side Panel and see that the ‘Hours Worked Per Week’ property has been added to the list. Tick it to add it to the current Worksheet View.
 
 ![](2-007.checkdatamerged.png)
