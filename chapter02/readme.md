@@ -71,7 +71,7 @@
 
 ![](2I-007.uploadutility.png)
 
-**Note:** The Upload Utility can be requested by contacting support@orgvue.com
+**Note:** The Upload Utility can be requested by contacting the [OrgVue Portal](support@orgvue.com)
 
 ##4. OrgVue Webforms are created through a link that gives a restricted view of the Dataset (mobile & desktop compatible)
 
