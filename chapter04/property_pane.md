@@ -57,14 +57,20 @@ You can manage settings for each property using the Property Pane.
 2. Under ‘Type’ select ‘Number’ to view the current Bin logic for the Property
 
 3. Alter the number of intervals using the ‘+’ and ‘-’ icons. Additionally, you can set quantiles or define completely customised Bin intervals for the Property
+  
+  **Edit Property Dialogue – Type section**
 
   ![](4-021.bininterval.png)
 
 4. OrgVue automatically cascades your Bin logic changes to all visualisations referencing the particular Property
+  
+  **Count of age (with 7 bins)**
 
-![](4-022.7bins.png)
-![](4-023.12bins.png)
+  ![](4-022.7bins.png)
+  
+  **Count of age (with 12 bins)**
 
+  ![](4-023.12bins.png)
 ##Add new property
 
 1. Click ‘Add property’
