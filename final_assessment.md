@@ -2,9 +2,7 @@
 
 ##Quiz
 
-###Q1. 
-
-####Which of the following does not apply to OrgVue?
+###Q1. Which of the following does not apply to OrgVue?
 
 (A): A graph database
 
@@ -14,9 +12,7 @@
 
 (D): Desktop application
 
-###Q2. 
-
-####Which of the following tabs cannot be viewed on the left-hand side of the Tenant by those with 'user'-level permissions?
+###Q2. Which of the following tabs cannot be viewed on the left-hand side of the Tenant by those with 'user'-level permissions?
 
 (A): People
 
@@ -32,9 +28,7 @@
 
 (G): Surveys
 
-###Q3. 
-
-####Choose what you can't do on the Side Panel
+###Q3. Choose what you can't do on the Side Panel
 
 (A): Add a new node
 
@@ -46,9 +40,7 @@
 
 (E): Navigate to quality dashboard
 
-###Q4. 
-
-####Choose the correct observations (in Tree vocab) about the org in the picture**
+###Q4. Choose the correct observations (in Tree vocab) about the org in the picture**
 
 ![](7-001.treevocab.png)
 
@@ -64,9 +56,7 @@
 
 (F): There are no orphans
 
-###Q5. 
-
-####What can you do with Filter Control?
+###Q5. What can you do with Filter Control?
 
 (A): Identify duplicate nodes
 
@@ -76,9 +66,7 @@
 
 (D): See standard deviation of the selected subset of numerical property
 
-###Q6. 
-
-####You want to compare the "Performance Ranking" and "Current Bonus" for all Employees, by department and size the markers in proportion to the number of records in each department, which of the following is most useful?
+###Q6. You want to compare the "Performance Ranking" and "Current Bonus" for all Employees, by department and size the markers in proportion to the number of records in each department, which of the following is most useful?
 
 (A): Scatter Chart
 
@@ -92,9 +80,7 @@
 
 (F): Bar Chart Matrix
 
-##Final Exercise
-
-####Please answer the questions using OrgVue visualisations
+##Final Exercise: Please answer the questions using OrgVue visualisations
 
 1. Which areas of business (department) need further investigation on low performance?
 2. Are there any correlations between large spans of control and performance?(tip: Exclude the nodes with outgoing count = 0)
@@ -104,29 +90,29 @@
 
 ##Answers 
 
-####1.
+###1.
 ![](7-002.answer1.1.png)
 
 ![](7-003.answer1.2.png)
 ![](7-004.answer1.3.png)
-####2.
+###2.
 
 ![](7-005.answer2.1.png)
 
 ![](7-006.answer2.2.png)
-####3.
+###3.
 
 ![](7-007.answer3.1.png)
 
 ![](7-007.answer3.2.png)
-####4.
+###4.
 
 ![](7-008.answer4.1.png)
 
 ![](7-009.answer4.2.png)
 ![](7-010.answer4.3.png)
 
-####5.
+###5.
 * Create a new property ‘Team Performance’ using default value box node.d.performanceranking.avg
 
 ![](7-011.answer5.1.png)
