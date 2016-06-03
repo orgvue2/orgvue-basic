@@ -71,5 +71,5 @@ You can switch back to the original region-based hierarchy by choosing “Line M
 
 Coloured by Department (Executive, Engineering, Distribution and Sales)
 
-**Note**: For more information about handling multiple hierarchies, go to [support.orgvue.com](support.orgvue.com)
+**Note**: For more information about handling multiple hierarchies, go to the [OrgVue Portal]([support.orgvue.com](support.orgvue.com)
 
