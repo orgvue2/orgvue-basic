@@ -17,7 +17,7 @@
 
 ![](3I-003.addpics.png)
 
-* Use the Property Pane to add or replace an image file for a single node by uploading a new file or using Webcam
+**Note**: Use the Property Pane to add or replace an image file for a single node by uploading a new file or using Webcam
 
 ![](3I-004.addpicsproperty.png)
 ![](3-031.orgchartpics2.png)
