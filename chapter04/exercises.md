@@ -2,9 +2,11 @@
 
 ##Exercise 1: Use the Filter Control to complete tasks below
 
-1. Use the Filter Control to find the percentage split of Gender in the Dataset (tip: If you have not done so, clean the gender data by ‘painting with data’ in the Filter Control)
+1. Use the Filter Control to find the percentage split of Gender in the Dataset 
+  * **Tip**: If you have not done so, clean the gender data by ‘painting with data’ in the Filter Control)
 
-2. Use the Filter Control to delete the duplicate node (tip: use *Metadata* filters)
+2. Use the Filter Control to delete the duplicate node 
+  * **Tip**: Use *Metadata* filters
 
 ##Answer 1.1:
 
